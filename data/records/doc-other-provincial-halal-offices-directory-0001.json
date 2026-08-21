@@ -48,7 +48,7 @@
     "extracted_at": "2026-08-21T21:00:00+07:00",
     "extraction_method": "manual",
     "verified": true,
-    "verified_by": "claude_code",
+    "verified_by": "ตรวจสอบ character-for-character กับหน้าเว็บ cicot.or.th จริง (ผ่าน curl สดในเซสชันนี้)",
     "verified_at": "2026-08-22T06:00:00+07:00"
   }
 }

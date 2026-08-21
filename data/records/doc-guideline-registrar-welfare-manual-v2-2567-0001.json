@@ -58,7 +58,7 @@
     "extracted_at": "2026-08-22T01:30:00+07:00",
     "extraction_method": "pdf-text",
     "verified": true,
-    "verified_by": "claude_code",
+    "verified_by": "ตรวจสอบข้ามเอกสาร (cross-check) กับ doc-law-islamic-law-4-provinces-2489-0001 (ตรงกันทุกตัวอักษร) และยืนยัน doc-circular-medical-benefit-islamic-marriage-0001 คำต่อคำ",
     "verified_at": "2026-08-22T06:00:00+07:00"
   }
 }
