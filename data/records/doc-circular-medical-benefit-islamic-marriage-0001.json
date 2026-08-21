@@ -1,0 +1,44 @@
+{
+  "id": "doc-circular-medical-benefit-islamic-marriage-0001",
+  "th": {
+    "title": "คำนิยาม \"การจดทะเบียนสมรสตามหลักศาสนาอิสลาม\" สำหรับสิทธิเบิกเงินสวัสดิการรักษาพยาบาลข้าราชการ",
+    "title_alt": [],
+    "category": "circular",
+    "issuing_body": "กรมบัญชีกลาง (สันนิษฐาน — เป็นสไลด์/ภาพตัดมา ไม่มีหัวกระดาษ/วันที่/เลขที่หนังสือยืนยันในภาพ)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "สไลด์ (ภาพ JPG ตัดมา ไม่มีหัวกระดาษ/เลขที่หนังสือ/วันที่ในภาพที่ได้รับ) หัวข้อ 'คำนิยามที่เกี่ยวข้องกับการสมรส' นิยาม 2 แบบคู่กัน: (1) การจดทะเบียนสมรสตามประมวลกฎหมายแพ่งและพาณิชย์ (ป.พ.พ. มาตรา 1457 ตั้งแต่ 1 ต.ค. 2478) — ถือเป็นคู่สมรสที่ชอบด้วยกฎหมายตามพระราชกฤษฎีกาเงินสวัสดิการเกี่ยวกับการรักษาพยาบาล พ.ศ. 2553 (doc ที่เกี่ยวข้องในระบบนี้: พระราชกฤษฎีกาทั่วไป ไม่มี id เฉพาะ ยังไม่ ingest แยก); (2) **การจดทะเบียนสมรสตามหลักศาสนาอิสลาม** — นิยามชัดเจนว่า: ผู้มีสิทธิ 'ชาย' ที่นับถือศาสนาอิสลามและมีภูมิลำเนาอยู่ใน 4 จังหวัดชายแดนภาคใต้ (นราธิวาส ยะลา ปัตตานี สตูล) มีสิทธิเบิกเงินสวัสดิการรักษาพยาบาลข้าราชการให้คู่สมรสได้ **จำนวนไม่เกิน 4 คน** โดย**คู่สมรสลำดับที่ 2-4 ต้องจดทะเบียนสมรสตามหลักศาสนาอิสลามในพื้นที่ 4 จังหวัดนี้เท่านั้น** (ไม่ใช่จดที่ไหนก็ได้) — อ้างอิงฐานอำนาจจาก **พ.ร.บ.ว่าด้วยการใช้กฎหมายอิสลามในเขตจังหวัดปัตตานี นราธิวาส ยะลา และสตูล พ.ศ. 2489** (`doc-law-islamic-law-4-provinces-2489-0001` ในระบบนี้) ซึ่งใช้บังคับแทนบทบัญญัติแห่งประมวลกฎหมายแพ่งและพาณิชย์ บรรพ 5 (ครอบครัว) และบรรพ 6 (มรดก) นี่คือหลักฐานยืนยันที่ตามหาจากคลิป YouTube 'สิทธิการเบิกค่ารักษาพยาบาลคู่สมรสของข้าราชการชายที่นับถือศาสนาอิสลาม' — **ยืนยันแล้วว่าตัวเลข 'ไม่เกิน 4 คน' มีอยู่จริงในระบบราชการ** แต่กฎนี้อยู่ใน**หนังสือ/สไลด์ตีความของกรมบัญชีกลางแยกต่างหาก ไม่ใช่ในตัวพระราชกฤษฎีกาเงินสวัสดิการฯ พ.ศ.2553 เอง** (ตรวจสอบตัวพระราชกฤษฎีกาและหลักเกณฑ์การเบิกจ่ายที่แนบมาในระบบนี้แล้วไม่พบข้อความนี้เลย — ดู `doc-circular-medical-benefit-islamic-marriage-0001` เป็นคนละไฟล์กับพระราชกฤษฎีกาทั่วไปที่ผู้ใช้ส่งมาก่อนหน้า) **ข้อจำกัดของแหล่งที่มา**: ได้รับมาเป็นภาพสไลด์ตัดเฉพาะส่วน ไม่มีหัวกระดาษ ไม่มีเลขที่หนังสือ ไม่มีวันที่ ไม่ทราบว่าเป็นสไลด์ประกอบการอบรมหรือส่วนหนึ่งของหนังสือเวียนทางการ ต้องหาต้นฉบับเต็มมายืนยันเพิ่มเติมก่อน mark เป็น verified",
+    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
+    "keywords": ["สวัสดิการรักษาพยาบาล", "พหุภรรยา", "คู่สมรสตามหลักศาสนาอิสลาม", "กรมบัญชีกลาง"],
+    "related_document_ids": ["doc-law-islamic-law-4-provinces-2489-0001"]
+  },
+  "en": {
+    "title": "Definition of \"Islamic Marriage Registration\" for Civil Servant Medical Benefit Eligibility",
+    "title_alt": [],
+    "issuing_body": "Comptroller General's Department (presumed - a cropped slide image with no letterhead/reference number/date visible)",
+    "summary": "A slide image (JPG, cropped, no letterhead/reference number/date in the image received) titled 'Definitions Related to Marriage', giving two paired definitions: (1) Marriage registered under the Civil and Commercial Code (Section 1457, since 1 October 1935) - counts as a lawful spouse under the 2010 Royal Decree on medical treatment welfare money; (2) **Marriage registered under Islamic principles** - defined precisely: a MALE beneficiary who is Muslim and domiciled in the 4 southern border provinces (Narathiwat, Yala, Pattani, Satun) may claim the civil-servant medical benefit for **up to 4 spouses**, where **spouses 2-4 must be registered under Islamic marriage principles specifically within these 4 provinces** (not registrable elsewhere) - citing the **Act on the Application of Islamic Law in Pattani, Narathiwat, Yala and Satun Provinces B.E. 2489** (`doc-law-islamic-law-4-provinces-2489-0001` in this archive) as the legal basis, which applies in place of the Civil and Commercial Code's Book 5 (Family) and Book 6 (Inheritance). This is the confirming evidence sought from the YouTube video 'Medical benefit rights for spouses of male civil servants who are Muslim' - **the 'up to 4 spouses' figure is confirmed to genuinely exist in government administration**, but this rule lives in a **separate Comptroller General's Department interpretive circular/slide, not in the 2010 medical welfare Royal Decree itself** (the Decree and its implementing rules, both already in this archive, were checked in full and contain no such text). **Source limitation**: received as a cropped slide image with no letterhead, reference number, or date - unknown whether this is a training slide or part of an official circular. The full original document is needed before this can be marked verified.",
+    "keywords": ["medical welfare benefit", "polygamy", "Islamic marriage registration", "Comptroller General's Department"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-22T01:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/misc/medical-benefit-islamic-marriage-definition-slide.jpg",
+    "document_url": null,
+    "publisher": null,
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ภาพเดียว (สไลด์/ตัดเฉพาะส่วน)",
+    "checksum_sha256": "e8d7f06b2f6768cd5b95f083f4f11255b75e5cf7fb8fc05e331ab4964ddbdfec"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-22T01:00:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
