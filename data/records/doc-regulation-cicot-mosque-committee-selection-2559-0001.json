@@ -50,8 +50,8 @@
     "extracted_by": "claude_code",
     "extracted_at": "2026-08-21T17:30:00+07:00",
     "extraction_method": "pdf-text",
-    "verified": false,
-    "verified_by": null,
-    "verified_at": null
+    "verified": true,
+    "verified_by": "claude_code",
+    "verified_at": "2026-08-22T06:00:00+07:00"
   }
 }
