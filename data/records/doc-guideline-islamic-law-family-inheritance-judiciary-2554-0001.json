@@ -1,0 +1,44 @@
+{
+  "id": "doc-guideline-islamic-law-family-inheritance-judiciary-2554-0001",
+  "th": {
+    "title": "คู่มือหลักกฎหมายอิสลามว่าด้วยครอบครัวและมรดก (ฉบับศาลยุติธรรม)",
+    "title_alt": [],
+    "category": "guideline",
+    "issuing_body": "สำนักงานศาลยุติธรรม",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "คู่มือทางการของสำนักงานศาลยุติธรรม พ.ศ. 2554 (2011) จัดทำเพื่อให้ข้าราชการตุลาการศาลยุติธรรมและดะโต๊ะยุติธรรมที่ปฏิบัติหน้าที่ในเขตพื้นที่จังหวัดปัตตานี นราธิวาส ยะลา และสตูล ใช้วินิจฉัยชี้ขาดคดีเกี่ยวกับครอบครัวและมรดกที่คู่ความเป็นอิสลามศาสนิก คำนำระบุว่า: นับแต่ศาลยุติธรรมแยกออกจากกระทรวงยุติธรรมใน พ.ศ. 2543 ศาลยุติธรรมยังไม่มีคู่มือเป็นขององค์กรเอง — คู่มือฉบับกระทรวงยุติธรรมเดิม (ดู doc-other-islamic-law-seminar-1982-0001, พ.ศ. 2525) ถูกใช้มานานกว่า 30 ปีจึงสมควรปรับปรุง ฉบับนี้เป็น**ครั้งที่ 2 ของประเทศไทยและครั้งแรกของศาลยุติธรรมเอง** ลงนามคำนำโดยนายวิรัช ชินวินิจกุล เลขาธิการสำนักงานศาลยุติธรรม และคำนิยมโดยนายสมบูรณ์ วัฒนพรมงคล อธิบดีผู้พิพากษาภาค (ตัวเลขภาคอ่านได้ไม่ชัดจากภาพสแกน — ต้องตรวจสอบเพิ่ม) — เชื่อมโยงโดยตรงกับกรอบกฎหมายใน doc-law-islamic-law-4-provinces-2489-0001 และคำวิพากษ์วิจารณ์ทางวิชาการใน doc-research-islamic-law-4-provinces-thesis-1986-0001 ยังไม่ได้อ่านเนื้อหาหลักกฎหมายอิสลามในเล่ม (161 หน้า) แบบละเอียด — pdftotext ให้ผลลัพธ์ตัวอักษรผิดเพี้ยน (font encoding เก่า) ต้องอ่านด้วยภาพสแกนทีละหน้าในรอบถัดไป",
+    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
+    "keywords": ["ดะโต๊ะยุติธรรม", "ครอบครัวและมรดก", "ศาลยุติธรรม", "คู่มือ"],
+    "related_document_ids": ["doc-law-islamic-law-4-provinces-2489-0001", "doc-research-islamic-law-4-provinces-thesis-1986-0001", "doc-other-islamic-law-seminar-1982-0001"]
+  },
+  "en": {
+    "title": "Handbook of Islamic Law Principles on Family and Inheritance (Judiciary Edition)",
+    "title_alt": [],
+    "issuing_body": "Office of the Judiciary",
+    "summary": "An official 2011 handbook from the Office of the Judiciary, produced for judicial officers and Dato Yuttitham serving in Pattani, Narathiwat, Yala, and Satun to adjudicate family and inheritance cases where the parties are Muslim. The foreword states: since the courts of justice separated from the Ministry of Justice in 2000, the judiciary has had no handbook of its own - the prior Ministry of Justice edition (see doc-other-islamic-law-seminar-1982-0001, 1982) had been in use for over 30 years and needed revision. This is the **2nd such handbook nationally and the first produced by the Judiciary itself**, with a foreword by Mr. Wirat Chinvinijkul, Secretary-General of the Office of the Judiciary, and a commendation by Mr. Somboon Wattanapromongkol, Chief Judge of Region [digit unclear from the scan - needs further check]. Directly linked to the legal framework in doc-law-islamic-law-4-provinces-2489-0001 and the academic critique in doc-research-islamic-law-4-provinces-thesis-1986-0001. The book's substantive legal content (161 pages) has not yet been read in detail - pdftotext produced garbled output (old font encoding); it needs page-by-page visual reading in a future pass.",
+    "keywords": ["Dato Yuttitham", "family and inheritance", "courts of justice", "handbook"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T22:20:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2554-khumue-islamic-law-family-inheritance-judiciary.pdf",
+    "document_url": null,
+    "publisher": "สำนักงานศาลยุติธรรม",
+    "published_date": "2011-01-01",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "คำนำ+คำนิยม อ่านแล้ว (จาก 161 หน้า — เนื้อหาหลักยังไม่ได้อ่าน)",
+    "checksum_sha256": "7a91cef0dc31444aef4f044ee2282598314e94fac202e243fc6ef1cd44ac5acd"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T22:20:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

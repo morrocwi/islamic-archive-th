@@ -55,6 +55,7 @@ docs/MOSQUE_ADMIN_FRAMEWORK.md     5-dimension organizing framework for mosque a
 docs/CICOT_STRUCTURE.md            CICOT's legal status, institutional DAG, and department functions
 docs/RELATED_ORGANIZATIONS.md       Semi-private associations/foundations that interface with state agencies
 docs/PROVINCIAL_HALAL_OFFICES.md    Directory of provincial Islamic committee halal-affairs offices (from cicot.or.th)
+docs/JUSTICE_SYSTEM_DAG.md          Dato Yuttitham justice system: timeline + institutional DAG (separate from CICOT)
 ```
 
 ## Categories (`th.category`)

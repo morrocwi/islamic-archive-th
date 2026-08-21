@@ -1,0 +1,44 @@
+{
+  "id": "doc-other-islamic-law-seminar-1982-0001",
+  "th": {
+    "title": "เอกสารการสัมมนา การใช้กฎหมายอิสลามในเขตจังหวัดปัตตานี นราธิวาส ยะลา และสตูล",
+    "title_alt": [],
+    "category": "other",
+    "issuing_body": "กระทรวงยุติธรรม",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "เอกสารประกอบการสัมมนาเรื่องการใช้กฎหมายอิสลามในเขตจังหวัดปัตตานี นราธิวาส ยะลา และสตูล จัดโดยกระทรวงยุติธรรม พ.ศ. 2525 (1982) จำนวน 418 หน้า (ไฟล์สแกน) อยู่ในช่วงเวลาเดียวกับที่สมบูรณ์ พุทธจักร เริ่มทำวิทยานิพนธ์ที่ไปวิพากษ์ระบบนี้ในปี 2529 (doc-research-islamic-law-4-provinces-thesis-1986-0001) และเป็นเอกสารที่อาจเกี่ยวข้องกับ 'ฉบับกระทรวงยุติธรรม' ที่บทความ Isranews (doc-research-islamic-law-history-isranews-2567-0001) อ้างถึงว่าใช้มา '30 ปี' ก่อนฉบับศาลยุติธรรม 2554 — แต่ **ยังไม่ยืนยันว่าเป็นฉบับปรับปรุงของคู่มือ พ.ศ.2484 (230 มาตรา) หรือเป็นเอกสารสัมมนาวิชาการแยกต่างหาก** เนื่องจากไฟล์เป็นภาพสแกนทั้งหมด (418 หน้า) ยังไม่ได้อ่านเนื้อหาเกินหน้าปก ต้องอ่านเพิ่มเพื่อยืนยันความสัมพันธ์กับ doc-guideline-islamic-law-family-inheritance-judiciary-2554-0001",
+    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
+    "keywords": ["สัมมนา", "กฎหมายอิสลาม", "กระทรวงยุติธรรม"],
+    "related_document_ids": ["doc-guideline-islamic-law-family-inheritance-judiciary-2554-0001", "doc-research-islamic-law-history-isranews-2567-0001"]
+  },
+  "en": {
+    "title": "Seminar Proceedings: The Application of Islamic Law in Pattani, Narathiwat, Yala and Satun Provinces",
+    "title_alt": [],
+    "issuing_body": "Ministry of Justice",
+    "summary": "Proceedings from a Ministry of Justice seminar on the application of Islamic law in Pattani, Narathiwat, Yala, and Satun, 1982, 418 pages (scanned file). Contemporaneous with Somboon Puttajuk's 1986 thesis critiquing the same system (doc-research-islamic-law-4-provinces-thesis-1986-0001), and possibly related to the 'Ministry of Justice edition' the Isranews article (doc-research-islamic-law-history-isranews-2567-0001) says was in use for '30 years' before the 2011 Judiciary edition - but **it is not yet confirmed whether this is a revised edition of the 1941 handbook (230 sections) or a separate academic seminar document**. The file is entirely scanned images (418 pages); only the cover has been read so far. Further reading is needed to confirm its relationship to doc-guideline-islamic-law-family-inheritance-judiciary-2554-0001.",
+    "keywords": ["seminar", "Islamic law", "Ministry of Justice"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T23:10:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2525-seminar-islamic-law-4-provinces-moj.pdf",
+    "document_url": null,
+    "publisher": "กระทรวงยุติธรรม",
+    "published_date": "1982-01-01",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "หน้าปกเท่านั้น (จาก 418 หน้า)",
+    "checksum_sha256": "9ff8bccb585cc9d70a695f070d4358f4423a251fbf152363d340c743ea3faa1a"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T23:10:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

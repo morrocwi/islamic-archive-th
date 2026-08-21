@@ -1,0 +1,44 @@
+{
+  "id": "doc-law-krisdika-opinion-201-2526-0001",
+  "th": {
+    "title": "บันทึกสำนักงานคณะกรรมการกฤษฎีกา เรื่องเสร็จที่ 201/2526 — การตีความ พ.ร.บ.ว่าด้วยการใช้กฎหมายอิสลามฯ พ.ศ. 2489",
+    "title_alt": ["กฎหมายอิสลามมีผลใช้บังคับทั่วไปตลอดทั้งเขตแดน 4 จังหวัดภาคใต้หรือไม่"],
+    "category": "circular",
+    "issuing_body": "สำนักงานคณะกรรมการกฤษฎีกา",
+    "document_no": "เรื่องเสร็จที่ 201/2526",
+    "enacted_date_be": "พฤษภาคม 2526",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "คำวินิจฉัยตีความอย่างเป็นทางการของคณะกรรมการกฤษฎีกา (ที่ประชุมใหญ่กรรมการร่างกฎหมาย) ตอบคำถามที่ค้างมาจากการสัมมนาการใช้กฎหมายอิสลามที่จังหวัดสงขลา 13-14 มีนาคม 2525 (ตรงกับ doc-other-islamic-law-seminar-1982-0001) ข้อเสนอข้อ 5 ซึ่งคณะรัฐมนตรีมีมติเห็นชอบข้อเสนออื่นทั้งหมดยกเว้นข้อนี้ (5 ตุลาคม 2525) แล้วส่งให้กฤษฎีกาตีความ: **กฎหมายอิสลามใช้บังคับได้เฉพาะเมื่อมีคดีขึ้นสู่ศาลแล้วเท่านั้น หรือใช้บังคับทั่วไปนอกศาลได้ด้วย (เช่น เจ้าหน้าที่ที่ดิน/ปกครองใช้เองโดยไม่ต้องรอคำพิพากษา)?** กรรมการร่างกฎหมายคณะที่ 6 มีความเห็นแตกแยกเป็น 2 ฝ่าย (ฟังคำชี้แจงจากผู้แทนกระทรวงยุติธรรมและกระทรวงมหาดไทยแล้ว): ฝ่ายข้างมากเห็นว่าใช้ได้เฉพาะในศาล (ต้องตีความกฎหมายพิเศษที่ยกเว้นประมวลกฎหมายแพ่งฯ โดยเคร่งครัด), ฝ่ายข้างน้อยเห็นว่าใช้บังคับทั่วไปได้ (เพราะเหตุพิพาทมักเกิดขึ้นก่อนมาสู่ศาล) — จึงต้องนำเข้าที่ประชุมใหญ่กรรมการร่างกฎหมายตามข้อ 14(3) ระเบียบกฤษฎีกา 2522 **ผลชี้ขาดสุดท้าย (พฤษภาคม 2526)**: ที่ประชุมใหญ่เห็นด้วยกับฝ่ายข้างมาก — กฎหมายอิสลาม**ไม่มีผลใช้บังคับทั่วไปตลอดเขต 4 จังหวัด** มีผลเฉพาะเมื่อ 'คดี' (ตามนิยามในมาตรา 1 ป.วิ.แพ่ง = กระบวนพิจารณานับแต่เสนอคำฟ้องต่อศาล) ได้ขึ้นสู่ศาลชั้นต้นแล้วเท่านั้น เพราะมาตรา 4 บัญญัติให้ดะโต๊ะยุติธรรม 'นั่งพิจารณา' ร่วมกับผู้พิพากษาในศาล เจ้าหน้าที่รัฐหน่วยอื่นจึงไม่มีอำนาจใช้กฎหมายอิสลามได้เอง ลงนามโดยนายอมร จันทรสมบูรณ์ เลขาธิการคณะกรรมการกฤษฎีกา — นี่คือคำตอบทางกฎหมายที่ชัดเจนที่สุดในระบบนี้ต่อคำถาม 'ขอบเขตการบังคับใช้' และยืนยันว่าประเด็นนี้**ยังไม่ได้รับการแก้ไขด้วยการแก้กฎหมาย**จนถึงบทความวิชาการล่าสุด (ดู doc-guideline-islamic-procedural-law-article-suradet-0001 ซึ่งยังคงระบุปัญหา 'lack of effective extra-judicial mechanisms' อยู่)",
+    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
+    "keywords": ["กฤษฎีกา", "การตีความกฎหมาย", "ขอบเขตการบังคับใช้", "ดะโต๊ะยุติธรรม"],
+    "related_document_ids": ["doc-law-islamic-law-4-provinces-2489-0001", "doc-other-islamic-law-seminar-1982-0001", "doc-guideline-islamic-procedural-law-article-suradet-0001"]
+  },
+  "en": {
+    "title": "Council of State Opinion No. 201/2526 (1983) — Interpretation of the 1946 Islamic Law Act",
+    "title_alt": ["Does Islamic law apply generally throughout the 4 southern provinces?"],
+    "issuing_body": "Office of the Council of State",
+    "summary": "An official interpretive opinion by the Council of State's General Assembly of Legislative Drafters, resolving a question left open from the 1982 Songkhla seminar (matching doc-other-islamic-law-seminar-1982-0001), recommendation #5, which the Cabinet approved everything else on (5 October 1982) except this point, referring it to the Council of State: **does Islamic law apply only once a case reaches court, or generally outside court too** (e.g., land/administrative officials applying it directly)? The 6th Legislative Drafting Committee split into a majority (in-court only, applying strict construction to this special law that displaces the Civil and Commercial Code) and a minority (general application, since disputes typically arise before reaching court) - requiring referral to the full General Assembly under Article 14(3) of the 1979 Council of State meeting regulations. **Final ruling (May 1983)**: the General Assembly agreed with the majority - Islamic law **does not apply generally throughout the 4 provinces**; it applies only once a 'case' (per the Civil Procedure Code's definition: proceedings from the filing of a complaint) has reached the court of first instance, because Section 4 requires the Dato Yuttitham to 'sit' alongside a judge in court - other state officials have no authority to apply Islamic law on their own. Signed by Mr. Amorn Chantarasomboon, Secretary-General of the Council of State. This is the clearest legal answer in this archive to the 'scope of application' question, and confirms this issue **remains unresolved by legislative amendment** as of the most recent academic article found (see doc-guideline-islamic-procedural-law-article-suradet-0001, which still identifies a 'lack of effective extra-judicial mechanisms').",
+    "keywords": ["Council of State", "statutory interpretation", "scope of application", "Dato Yuttitham"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T23:40:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2526-krisdika-opinion-201-islamic-law-scope.pdf",
+    "document_url": null,
+    "publisher": "สำนักงานคณะกรรมการกฤษฎีกา",
+    "published_date": "1983-05-01",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (5 หน้า)",
+    "checksum_sha256": "6df9a60efa97f8044c6345046905fa9425c1cdd9dbd2bac53613804547abf123"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T23:40:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

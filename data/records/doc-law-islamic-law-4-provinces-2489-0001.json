@@ -1,0 +1,44 @@
+{
+  "id": "doc-law-islamic-law-4-provinces-2489-0001",
+  "th": {
+    "title": "พระราชบัญญัติว่าด้วยการใช้กฎหมายอิสลามในเขตจังหวัดปัตตานี นราธิวาส ยะลา และสตูล พ.ศ. 2489",
+    "title_alt": [],
+    "category": "law",
+    "issuing_body": "รัฐสภาไทย",
+    "document_no": null,
+    "enacted_date_be": "19 พฤศจิกายน 2489",
+    "effective_date": "1946-12-04",
+    "status": "in_force",
+    "summary": "กฎหมายฉบับสั้น 7 มาตรา เป็นรากฐานทางกฎหมายของระบบ 'ดะโต๊ะยุติธรรม' ในศาลยุติธรรมไทย: มาตรา 3 กำหนดให้ใช้กฎหมายอิสลามว่าด้วยครอบครัวและมรดกบังคับแทนประมวลกฎหมายแพ่งและพาณิชย์ ในคดีแพ่งของศาลชั้นต้นจังหวัดปัตตานี นราธิวาส ยะลา และสตูล เมื่อคู่ความ (โจทก์-จำเลย หรือผู้เสนอคำขอในคดีไม่มีข้อพิพาท) เป็นอิสลามศาสนิกทั้งสองฝ่าย เว้นแต่บทบัญญัติว่าด้วยอายุความมรดก; มาตรา 4 ให้ดะโต๊ะยุติธรรม 1 นายนั่งพิจารณาร่วมกับผู้พิพากษา มีอำนาจวินิจฉัยชี้ขาดข้อกฎหมายอิสลามและลงลายมือชื่อในคำพิพากษา คำวินิจฉัยเด็ดขาดในคดีนั้น; มาตรา 5 ใช้กฎหมายวิธีพิจารณาความแพ่งว่าด้วยการคัดค้านผู้พิพากษามาบังคับแก่การคัดค้านดะโต๊ะยุติธรรมโดยอนุโลม และวางวิธีเลือกผู้ทำหน้าที่แทนดะโต๊ะยุติธรรมเฉพาะคดีหากทำหน้าที่ไม่ได้; มาตรา 7 รัฐมนตรีว่าการกระทรวงยุติธรรมรักษาการ. กฎหมายฉบับนี้ **ไม่ได้กำหนดรายละเอียดคุณสมบัติ/วิธีคัดเลือก/แต่งตั้งดะโต๊ะยุติธรรม** ไว้เอง (ช่องว่างนี้ถูกวิพากษ์ในวิทยานิพนธ์ของสมบูรณ์ พุทธจักร พ.ศ.2529 — ดู doc-research-islamic-law-4-provinces-thesis-1986-0001) ยืนยันจากทั้งฉบับข้อความสะอาดของสำนักงานคณะกรรมการกฤษฎีกา (krisdika.go.th) และฉบับสแกนราชกิจจานุเบกษา (เล่ม 63 ตอนที่ 77 หน้า 633, 3 ธันวาคม 2489)",
+    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
+    "keywords": ["ดะโต๊ะยุติธรรม", "กฎหมายอิสลาม", "ครอบครัวและมรดก", "ศาลยุติธรรม"],
+    "related_document_ids": ["doc-research-islamic-law-4-provinces-thesis-1986-0001", "doc-guideline-islamic-law-family-inheritance-judiciary-2554-0001"]
+  },
+  "en": {
+    "title": "Act on the Application of Islamic Law in Pattani, Narathiwat, Yala and Satun Provinces B.E. 2489 (1946)",
+    "title_alt": [],
+    "issuing_body": "Parliament of Thailand",
+    "summary": "A short 7-section Act that is the legal foundation of the 'Dato Yuttitham' (Islamic judge-assessor) system in the Thai courts of justice: Section 3 requires Islamic family and inheritance law to be applied instead of the Civil and Commercial Code in civil cases before the courts of first instance in Pattani, Narathiwat, Yala, and Satun, where both parties (plaintiff/defendant, or the petitioner in an uncontested matter) are Muslim, except for provisions on inheritance limitation periods; Section 4 requires one Dato Yuttitham to sit alongside a judge, with authority to rule on points of Islamic law and co-sign the judgment, the ruling being final in that case; Section 5 applies the civil procedure rules on challenging a judge, by analogy, to challenging a Dato Yuttitham, and sets out how a substitute is chosen case-by-case if one cannot serve; Section 7 makes the Minister of Justice the officer maintaining the Act. Notably, this Act does **not** itself specify the qualifications, selection method, or appointment procedure for a Dato Yuttitham (a gap criticized in Somboon Puttajuk's 1986 thesis - see doc-research-islamic-law-4-provinces-thesis-1986-0001). Confirmed via both the clean text version from the Office of the Council of State (krisdika.go.th) and a scanned Royal Gazette copy (Book 63, Part 77, p.633, 3 December 1946).",
+    "keywords": ["Dato Yuttitham", "Islamic law", "family and inheritance", "courts of justice"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T22:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2489-phra-ratchabanyat-islamic-law-4-provinces.pdf",
+    "document_url": null,
+    "publisher": "ราชกิจจานุเบกษา / สำนักงานคณะกรรมการกฤษฎีกา",
+    "published_date": "1946-12-03",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (7 มาตรา, 3 หน้า, ราชกิจจานุเบกษา เล่ม 63 ตอนที่ 77 หน้า 633); มีสำเนาสแกนคู่กันที่ sources/originals/2489-phra-ratchabanyat-islamic-law-4-provinces-gazette-scan.pdf",
+    "checksum_sha256": "72a7fde2e05d64fcaf7ac989127ea46d08b84cc2beb91bec79e2ab46f319ca02"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T22:00:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

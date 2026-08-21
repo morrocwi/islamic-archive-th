@@ -84,6 +84,19 @@
 `source.document_url` เป็น `null` และ `source.document_pdf` ชี้ไปยังไฟล์ต้นฉบับที่เก็บไว้ใต้ `sources/originals/`
 พร้อม sha256 checksum แทน ฟิลด์ `verified` ยังเป็น `false` ทุกฉบับ รอมนุษย์ตรวจสอบตาม `docs/PROCESS.md`
 
+## Tier 6 — ระบบยุติธรรมดะโต๊ะยุติธรรม (แยกจากสาย CICOT — ดู docs/JUSTICE_SYSTEM_DAG.md)
+
+| รายการ | สถานะ | id |
+|---|---|---|
+| พ.ร.บ.ว่าด้วยการใช้กฎหมายอิสลามฯ พ.ศ.2489 | ✅ ingested | `doc-law-islamic-law-4-provinces-2489-0001` |
+| เอกสารสัมมนา กระทรวงยุติธรรม 2525 | ✅ ingested (แค่ปก จาก 418 หน้า) | `doc-other-islamic-law-seminar-1982-0001` |
+| คำวินิจฉัยกฤษฎีกา 201/2526 | ✅ ingested เต็ม | `doc-law-krisdika-opinion-201-2526-0001` |
+| วิทยานิพนธ์สมบูรณ์ พุทธจักร 2529 | ✅ ingested (บทคัดย่อ+โครง, ไม่เต็ม 229 หน้า) | `doc-research-islamic-law-4-provinces-thesis-1986-0001` |
+| คู่มือหลักกฎหมายอิสลามฉบับศาลยุติธรรม 2554 | ✅ ingested (คำนำ, ไม่เต็ม 161 หน้า) | `doc-guideline-islamic-law-family-inheritance-judiciary-2554-0001` |
+| บทความประวัติศาสตร์ Isranews 2567 | ✅ ingested เต็ม | `doc-research-islamic-law-history-isranews-2567-0001` |
+| บทความวิธีพิจารณาคดีอิสลาม สุรเดช บินรามัน | ✅ ingested (บทคัดย่อ, ไม่เต็ม 47 หน้า) | `doc-guideline-islamic-procedural-law-article-suradet-0001` |
+| แบบ ม.ย.3/ม.ย.4 (ทะเบียนมัสยิด, Tier 2) | ⏳ ยังไม่พบ | — |
+
 ## ขั้นตอนถัดไป
 
 ผู้ใช้จะทยอยหาลิงก์/ไฟล์ต้นฉบับของแต่ละรายการมาให้ทีละอย่าง — เมื่อได้รับแล้ว ให้ทำตาม `docs/PROCESS.md`

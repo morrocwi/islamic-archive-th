@@ -1,0 +1,44 @@
+{
+  "id": "doc-guideline-islamic-procedural-law-article-suradet-0001",
+  "th": {
+    "title": "แนวทางการบังคับใช้วิธีพิจารณาคดีอิสลามว่าด้วยครอบครัวและมรดกในประเทศไทย",
+    "title_alt": ["The Application of Islamic Procedural Law in Family and Inheritance Cases in Thailand"],
+    "category": "research",
+    "issuing_body": "สุรเดช บินรามัน (ผู้พิพากษาหัวหน้าคณะชั้นต้นในศาลแขวงธนบุรี)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "บทความวิชาการ 47 หน้า โดยสุรเดช บินรามัน ผู้พิพากษาหัวหน้าคณะชั้นต้นในศาลแขวงธนบุรี ศึกษาเชิงประวัติศาสตร์และนิติศาสตร์เรื่องวิธีพิจารณาคดีกฎหมายอิสลามในไทย ชี้ปัญหาเชิงโครงสร้างที่ยังคงอยู่จนถึงปัจจุบัน (ยืนยันว่าปัญหาที่ระบุในวิทยานิพนธ์สมบูรณ์ พุทธจักร 2529 และคำวินิจฉัยกฤษฎีกา 201/2526 ยังไม่ได้รับการแก้ไข): (1) เขตอำนาจจำกัดเฉพาะศาลชั้นต้นใน 4 จังหวัด ก่อให้เกิด 'forum shopping'; (2) ไม่มีประมวลกฎหมายวิธีพิจารณาคดีอิสลามของตนเอง ต้องอาศัยประมวลกฎหมายวิธีพิจารณาความแพ่งเป็นหลัก ทำให้หลักวิธีพิจารณาตามศาสนาอิสลาม (ภาระการพิสูจน์ คุณสมบัติพยาน การยอมรับพยานหลักฐาน) ใช้ไม่ได้อย่างมีประสิทธิภาพ; (3) **ไม่มีช่องทางอุทธรณ์คำวินิจฉัยของดะโต๊ะยุติธรรมในข้อกฎหมายอิสลาม** (คำวินิจฉัยเด็ดขาดตามมาตรา 4 พ.ร.บ.2489) ทำให้ไม่มีการตรวจสอบทบทวนคำพิพากษาและไม่เกิดการพัฒนาบรรทัดฐาน; (4) ขาดกลไกนอกศาลที่มีประสิทธิภาพ (ตรงกับประเด็นที่คำวินิจฉัยกฤษฎีกา 201/2526 — doc-law-krisdika-opinion-201-2526-0001 — ชี้ขาดไว้ว่ากฎหมายอิสลามใช้ได้เฉพาะในศาล) เป็นภาระแก่ประชาชนที่ต้องขอคำสั่งศาลเพื่อยืนยันสิทธิ์ต่อหน่วยงานราชการ บทความศึกษาเปรียบเทียบกับสิงคโปร์ ฟิลิปปินส์ และมาเลเซีย แล้วเสนอ: ตรากฎหมายแม่บทวิธีพิจารณาคดีอิสลามโดยเฉพาะ, กำหนดเขตอำนาจศาลให้ชัดเจน, เพิ่มบทบาทองค์กรศาสนาในกระบวนยุติธรรม, พัฒนากลไกไกล่เกลี่ยที่มีประสิทธิภาพ — สอดคล้องโดยตรงกับข้อเสนอแนะข้อ (3)-(4) ของวิทยานิพนธ์สมบูรณ์ พุทธจักร (doc-research-islamic-law-4-provinces-thesis-1986-0001) เมื่อ ~40 ปีก่อนหน้า แสดงให้เห็นว่าข้อเสนอเชิงปฏิรูปเดิมยังไม่ได้ถูกนำไปปฏิบัติ",
+    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
+    "keywords": ["วิธีพิจารณาคดีอิสลาม", "ดะโต๊ะยุติธรรม", "การอุทธรณ์", "พหุนิยมทางกฎหมาย"],
+    "related_document_ids": ["doc-law-islamic-law-4-provinces-2489-0001", "doc-research-islamic-law-4-provinces-thesis-1986-0001", "doc-law-krisdika-opinion-201-2526-0001"]
+  },
+  "en": {
+    "title": "Guidelines for Enforcing Islamic Procedural Law on Family and Inheritance in Thailand",
+    "title_alt": ["The Application of Islamic Procedural Law in Family and Inheritance Cases in Thailand"],
+    "issuing_body": "Suradet Binraman (Vice Presiding Judge of the Thonburi Municipal Court)",
+    "summary": "A 47-page academic article by Suradet Binraman, Vice Presiding Judge of the Thonburi Municipal Court, examining the history and jurisprudence of Islamic procedural law in Thailand. It identifies structural problems that persist to the present day (confirming that issues raised in Somboon Puttajuk's 1986 thesis and the 1983 Council of State opinion No. 201 remain unresolved): (1) jurisdiction limited to courts of first instance in the 4 provinces, enabling 'forum shopping'; (2) no dedicated Islamic procedural code - reliance on the Civil Procedure Code means Islamic evidentiary principles (burden of proof, witness qualifications, admissibility) cannot be applied effectively; (3) **no avenue to appeal a Dato Yuttitham's ruling on points of Islamic law** (final under Section 4 of the 1946 Act), preventing judicial review and precedent development; (4) lack of effective extra-judicial mechanisms (matching exactly what Council of State Opinion 201/2526 - doc-law-krisdika-opinion-201-2526-0001 - ruled on, that Islamic law applies only in court), burdening citizens who must obtain a court order to assert their rights with government agencies. The article compares Singapore, the Philippines, and Malaysia, then recommends: enacting a dedicated Islamic procedural code, clarifying court jurisdiction, expanding the role of religious institutions in the justice process, and developing effective mediation mechanisms - directly echoing recommendations (3)-(4) from Somboon Puttajuk's thesis (doc-research-islamic-law-4-provinces-thesis-1986-0001) roughly 40 years earlier, showing those reform proposals have still not been implemented.",
+    "keywords": ["Islamic procedural law", "Dato Yuttitham", "right of appeal", "legal pluralism"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T23:40:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2560s-article-islamic-procedural-law-suradet.pdf",
+    "document_url": null,
+    "publisher": null,
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "บทคัดย่อ+บทนำ อ่านแล้ว (จาก 47 หน้า — เนื้อหาส่วนเปรียบเทียบและข้อเสนอแนะยังไม่ได้อ่านเต็ม)",
+    "checksum_sha256": "bef10f6b00b13c75864411c0cc249619d6c923085839e5e3e733131361806dc7"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T23:40:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
