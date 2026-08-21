@@ -1,0 +1,44 @@
+{
+  "id": "doc-other-chularajmontri-mfc-islamic-fund-scholarship-0001",
+  "th": {
+    "title": "ทุนการศึกษาจุฬาราชมนตรี ร่วมกับกองทุนเปิดเอ็มเอฟซี อิสลามิก ฟันด์",
+    "title_alt": [],
+    "category": "other",
+    "issuing_body": "สำนักจุฬาราชมนตรี ร่วมกับบริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "ข่าวประชาสัมพันธ์เปิดรับสมัครทุนการศึกษา ริเริ่มโดย**สำนักจุฬาราชมนตรี** ได้รับการสนับสนุนงบประมาณจาก**บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)** ในฐานะผู้จัดการกองทุนเปิด MFC Islamic Fund — **แสดงความสัมพันธ์ระหว่างสำนักจุฬาราชมนตรีกับภาคการเงิน/กองทุนรวมที่ดำเนินธุรกิจตามหลักศาสนาอิสลาม (Islamic finance)** ซึ่งเป็นจุดเชื่อมประเภทใหม่ที่ยังไม่เคยบันทึกในระบบนี้ (แยกจากกลุ่มการศึกษา/มาตรฐานฮาลาล/มูลนิธิ/ฮัจย์ที่มีอยู่แล้วใน docs/RELATED_ORGANIZATIONS.md) รายละเอียดทุน: 50 ทุน ทุนละ 20,000 บาท รวม 1,000,000 บาท แบ่ง 3 กลุ่มสาขาวิชา (วิทยาศาสตร์สุขภาพ 25 ทุน, วิทยาศาสตร์/เทคโนโลยี/เกษตร 15 ทุน, มนุษยศาสตร์/สังคมศาสตร์ 10 ทุน) สำหรับนิสิต/นักศึกษาไทยปริญญาตรีที่กำลังศึกษาในสถาบันที่ได้รับรองจาก อว. เกรดเฉลี่ยไม่ต่ำกว่า 2.75 พิจารณาจาก GPA (50%) ความจำเป็นทางการเงิน (30%) กิจกรรมสังคม/ภาวะผู้นำ (20%)",
+    "scope_provinces": [],
+    "keywords": ["ทุนการศึกษาจุฬาราชมนตรี", "เอ็มเอฟซี อิสลามิก ฟันด์", "Islamic finance"],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Chularajmontri Scholarship in Collaboration with the MFC Islamic Fund",
+    "title_alt": [],
+    "issuing_body": "Office of the Chularajmontri, in collaboration with MFC Asset Management Public Company Limited",
+    "summary": "A public-relations announcement opening applications for a scholarship program initiated by the **Office of the Chularajmontri**, funded with support from **MFC Asset Management Public Company Limited** as manager of the MFC Islamic Fund - **showing a relationship between the Office of the Chularajmontri and the Islamic-finance/mutual-fund sector**, a new type of institutional link not previously recorded in this archive (distinct from the education/halal-standards/foundation/Hajj groups already in docs/RELATED_ORGANIZATIONS.md). Scholarship details: 50 scholarships of 20,000 baht each (1,000,000 baht total), divided across 3 fields (health sciences: 25, science/technology/agriculture: 15, humanities/social sciences: 10) for Thai undergraduate students at institutions accredited by the Ministry of Higher Education, Science, Research and Innovation, with a minimum GPA of 2.75, assessed on GPA (50%), financial need (30%), and social/leadership activity (20%).",
+    "keywords": ["Chularajmontri Scholarship", "MFC Islamic Fund", "Islamic finance"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-22T05:20:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": null,
+    "document_url": null,
+    "publisher": null,
+    "published_date": "2025-08-21",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ข้อความเต็มที่ผู้ใช้วางมาโดยตรง มีแบบฟอร์มสมัคร (forms.gle) แต่ไม่มี URL หน้าข่าวต้นทางยืนยันได้",
+    "checksum_sha256": null
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-22T05:20:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
