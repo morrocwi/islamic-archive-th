@@ -56,6 +56,7 @@ docs/CICOT_STRUCTURE.md            CICOT's legal status, institutional DAG, and 
 docs/RELATED_ORGANIZATIONS.md       Semi-private associations/foundations that interface with state agencies
 docs/PROVINCIAL_HALAL_OFFICES.md    Directory of provincial Islamic committee halal-affairs offices (from cicot.or.th)
 docs/JUSTICE_SYSTEM_DAG.md          Dato Yuttitham justice system: timeline + institutional DAG (separate from CICOT)
+docs/CONFLICT_STAKEHOLDER_MAP.md    Recurring conflict themes + power map, synthesized from real dispute case studies
 ```
 
 ## Categories (`th.category`)
