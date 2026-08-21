@@ -53,6 +53,7 @@ docs/PROCESS.md                    Human review workflow (extraction → transla
 docs/DOCUMENT_MAP.md               Backlog: which laws/regulations/forms are found vs. still pending
 docs/MOSQUE_ADMIN_FRAMEWORK.md     5-dimension organizing framework for mosque administration topics
 docs/CICOT_STRUCTURE.md            CICOT's legal status, institutional DAG, and department functions
+docs/RELATED_ORGANIZATIONS.md       Semi-private associations/foundations that interface with state agencies
 ```
 
 ## Categories (`th.category`)

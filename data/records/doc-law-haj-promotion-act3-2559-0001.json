@@ -1,0 +1,44 @@
+{
+  "id": "doc-law-haj-promotion-act3-2559-0001",
+  "th": {
+    "title": "พระราชบัญญัติส่งเสริมกิจการฮัจย์ (ฉบับที่ 3) พ.ศ. 2559",
+    "title_alt": [],
+    "category": "law",
+    "issuing_body": "รัฐสภาไทย (สภานิติบัญญัติแห่งชาติ)",
+    "document_no": "ฉบับที่ 3",
+    "enacted_date_be": "10 ธันวาคม 2559",
+    "effective_date": "2016-12-12",
+    "status": "in_force",
+    "summary": "แก้ไขเพิ่มเติมพระราชบัญญัติส่งเสริมกิจการฮัจย์ พ.ศ. 2524 (ระบบนี้ยังไม่มีฉบับหลัก พ.ศ.2524) สาระสำคัญ: (1) โอนภารกิจส่งเสริมกิจการฮัจย์ทั้งหมด (อำนาจหน้าที่ ทรัพย์สิน งบประมาณ กองทุนผู้เดินทางไปฮัจย์) จากกรมการศาสนา กระทรวงวัฒนธรรม ไปเป็นของกรมการปกครอง กระทรวงมหาดไทย (มาตรา 10) — เหตุผลตามหมายเหตุท้ายฉบับ: กรมการปกครองมีราชการส่วนภูมิภาคใกล้ชิดประชาชนทุกพื้นที่มากกว่า; (2) ปรับองค์ประกอบ 'คณะกรรมการส่งเสริมกิจการฮัจย์แห่งประเทศไทย' ให้มีรัฐมนตรีมหาดไทยเป็นประธาน, ปลัดมหาดไทยเป็นรองประธาน, กรรมการโดยตำแหน่ง 11 คน (ปลัด/ผู้แทนกระทรวงคมนาคม วัฒนธรรม ต่างประเทศ สาธารณสุข, กรมการศาสนา, กรมพัฒนาสังคมและสวัสดิการ, สำนักข่าวกรองแห่งชาติ, สมช., สตช., ศอ.บต., และ 'ผู้แทนคณะกรรมการกลางอิสลามแห่งประเทศไทย' — จุดเชื่อมโยงตรงกับ CICOT ในระบบนี้), กรรมการผู้ทรงคุณวุฒิไม่เกิน 4 คน (มาตรา 3), กำหนดคุณสมบัติ/ลักษณะต้องห้าม (มาตรา 4); (3) ให้อธิบดีกรมการปกครองเป็นเลขาธิการโดยตำแหน่ง กรมการปกครองทำหน้าที่สำนักเลขาธิการ (มาตรา 7); (4) ให้รัฐมนตรีมหาดไทยรักษาการแทนรัฐมนตรีวัฒนธรรมเดิม (มาตรา 9, 12). ยืนยันและอธิบายชัดเจนถึงความสัมพันธ์ระหว่างกรมการศาสนา (เดิม) และกรมการปกครอง (ปัจจุบัน) กับกิจการฮัจย์ ที่เคยเป็นคำถามเปิดใน docs/CICOT_STRUCTURE.md",
+    "scope_provinces": [],
+    "keywords": ["ฮัจย์","กรมการปกครอง","กรมการศาสนา","คณะกรรมการส่งเสริมกิจการฮัจย์แห่งประเทศไทย"],
+    "related_document_ids": ["doc-law-islamic-org-admin-act-0001", "doc-form-hajj-umrah-certificate-0001"]
+  },
+  "en": {
+    "title": "Hajj Promotion Act (No. 3) B.E. 2559 (2016)",
+    "title_alt": [],
+    "issuing_body": "Parliament of Thailand (National Legislative Assembly)",
+    "summary": "Amends the Hajj Promotion Act B.E. 2524 (1981) (the principal Act is not yet in this archive). Key points: (1) transfers all Hajj-promotion functions (powers, assets, budget, the pilgrim fund) from the Department of Religious Affairs (Ministry of Culture) to the Department of Provincial Administration/DOPA (Ministry of Interior) (Section 10) - the explanatory note cites DOPA's closer regional/provincial presence to the public as the reason; (2) restructures the 'National Hajj Promotion Committee': chaired by the Interior Minister, vice-chaired by the Permanent Secretary for Interior, 11 ex-officio members (permanent secretaries/representatives of Transport, Culture, Foreign Affairs, Public Health, the Religious Affairs Department, the Department of Social Development and Welfare, the National Intelligence Agency, the National Security Council, the Royal Thai Police, the Southern Border Provinces Administrative Centre, and a 'representative of the Central Islamic Council of Thailand' - a direct link to CICOT in this archive), up to 4 qualified experts (Section 3), with qualification/disqualification criteria (Section 4); (3) the Director-General of DOPA becomes ex-officio Secretary-General, with DOPA as the secretariat (Section 7); (4) the Interior Minister replaces the Culture Minister as the officer maintaining this Act (Sections 9, 12). This directly clarifies the Religious Affairs Department (past) vs. Provincial Administration Department (current) relationship to Hajj affairs, previously an open question in docs/CICOT_STRUCTURE.md.",
+    "keywords": ["Hajj","Department of Provincial Administration","Department of Religious Affairs","National Hajj Promotion Committee"],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T20:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2559-phra-ratchabanyat-haj-promotion-act3.pdf",
+    "document_url": null,
+    "publisher": "ราชกิจจานุเบกษา",
+    "published_date": "2016-12-11",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (12 มาตรา, 5 หน้า, ราชกิจจานุเบกษา เล่ม 133 ตอนที่ 104 ก)",
+    "checksum_sha256": "6e5aba7c782a485a515bb9b377ba92017ddbae5cbc2be6ad3f31b2f14db5243f"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T20:00:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
