@@ -1,11 +1,29 @@
-# Thai Mosque Governance Archive
+# Islamic Archive TH
 
-ฐานข้อมูลเอกสารการบริหารกิจการมัสยิดในประเทศไทย — พระราชบัญญัติ กฎกระทรวง ระเบียบคณะกรรมการอิสลามประจำจังหวัด
-หนังสือเวียน และแนวทาง/งานวิจัยด้านการบริหารมัสยิด — ทุกเรคคอร์ดผูกกับไฟล์ PDF ต้นฉบับและลิงก์แหล่งที่มาเสมอ
+> **โปรเจกต์อิสระ ไม่ใช่หน่วยงานราชการ และไม่ได้เป็นส่วนหนึ่งของสำนักจุฬาราชมนตรีหรือ CICOT** — เป็นการ
+> รวบรวมเอกสารสาธารณะมาจัดระบบ ไม่ใช่แหล่งข้อมูลทางการขององค์กรใด
+>
+> **Independent project — not a government agency, and not affiliated with the Office of the
+> Chularajmontri or CICOT.** This is a community effort to organize publicly available documents;
+> it is not an official source for any organization.
+>
+> **โปรดตรวจสอบข้อมูลกับต้นฉบับทางการด้วยตนเองทุกครั้งก่อนนำไปใช้อ้างอิง — ใช้ข้อมูลนี้ด้วยความเสี่ยงของ
+> ผู้ใช้เอง ผู้จัดทำไม่รับผิดชอบต่อความเสียหายใดๆ ทั้งสิ้น** อ่านรายละเอียดเต็มที่ [`DISCLAIMER.md`](DISCLAIMER.md)
+>
+> **Always verify against the official original before relying on any information here — use at
+> your own risk; the maintainers accept no liability.** Full text: [`DISCLAIMER.md`](DISCLAIMER.md)
+
+ฐานข้อมูลเอกสารการบริหารองค์กรศาสนาอิสลามทั้งระบบในประเทศไทย — ตั้งแต่สำนักจุฬาราชมนตรี คณะกรรมการอิสลาม
+ประจำจังหวัด ไปจนถึงมัสยิดแต่ละแห่ง — พระราชบัญญัติ กฎกระทรวง ระเบียบ หนังสือเวียน และแนวทาง/งานวิจัยด้าน
+การบริหาร — ทุกเรคคอร์ดผูกกับไฟล์ PDF ต้นฉบับและลิงก์แหล่งที่มาเสมอ เพื่อให้ทั้งประชาชนทั่วไปและผู้บริหาร
+องค์กร/มัสยิดเข้าถึงข้อมูลได้อย่างเป็นระบบ
 
 A structured, source-traceable database of laws, regulations, circulars, and research/guideline
-documents on **mosque administration and governance in Thailand**. Every record links back to its
-original PDF and source URL — nothing is entered without a retrievable original.
+documents covering the **administration of Islamic organizations in Thailand as a whole** — the
+Office of the Chularajmontri (Sheikhul Islam), Central and Provincial Islamic Committees, and
+individual mosques. Every record links back to its original PDF and source URL — nothing is
+entered without a retrievable original. Built for both the general public and mosque/organization
+administrators to access this information systematically.
 
 ## หลักการ / Design principles
 

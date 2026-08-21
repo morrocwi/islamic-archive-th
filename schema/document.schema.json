@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/morrocwi/thai-mosque-governance-archive/schema/document.schema.json",
-  "title": "Mosque Administration Document (Thailand)",
-  "description": "Canonical record for one document about the administration/governance of mosques in Thailand — a law, ministerial regulation, provincial Islamic committee rule, administrative circular, or research/guideline paper. Thai fields (`th`) are the source of truth, entered first and verified against the source document. English fields (`en`) are a translation pair, never authored independently of `th`.",
+  "$id": "https://github.com/morrocwi/islamic-archive-th/schema/document.schema.json",
+  "title": "Islamic Organization Administration Document (Thailand)",
+  "description": "Canonical record for one document about the administration/governance of Islamic organizations in Thailand — the Office of the Chularajmontri, Central/Provincial Islamic Committees, and individual mosques — a law, ministerial regulation, committee rule, administrative circular, or research/guideline paper. Thai fields (`th`) are the source of truth, entered first and verified against the source document. English fields (`en`) are a translation pair, never authored independently of `th`.",
   "type": "object",
   "required": ["id", "th", "source", "provenance"],
   "properties": {
