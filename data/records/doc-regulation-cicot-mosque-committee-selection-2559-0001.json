@@ -9,7 +9,7 @@
     "enacted_date_be": "27 กันยายน 2559 (มติที่ประชุมครั้งที่ 9/2559)",
     "effective_date": null,
     "status": "amended",
-    "summary": "ระเบียบ กอท. ฉบับแรก (34 ข้อ) ว่าด้วยขั้นตอนการคัดเลือกกรรมการอิสลามประจำมัสยิด (รวมอิหม่าม คอเต็บ บิหลั่น) ให้ใช้บังคับตั้งแต่ 1 มกราคม 2560 ยกเลิกระเบียบฉบับ พ.ศ. 2552 กำหนดนิยาม คณะกรรมการคัดเลือก บัญชีผู้มีสิทธิคัดเลือก บัตรลงคะแนน และวิธีนับคะแนน ภายหลังถูกแก้ไขเพิ่มเติมโดยฉบับที่ 2 พ.ศ. 2561 (ดู doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001) จึงตั้งสถานะเป็น amended ในระบบนี้",
+    "summary": "ระเบียบ กอท. ฉบับแรก (34 ข้อ) ว่าด้วยขั้นตอนการคัดเลือกกรรมการอิสลามประจำมัสยิด (รวมอิหม่าม คอเต็บ บิหลั่น) ให้ใช้บังคับตั้งแต่ 1 มกราคม 2560 ยกเลิกระเบียบฉบับ พ.ศ. 2552 กำหนดนิยาม คณะกรรมการคัดเลือก บัญชีผู้มีสิทธิคัดเลือก บัตรลงคะแนน และวิธีนับคะแนน ภายหลังถูกแก้ไขเพิ่มเติมโดยฉบับที่ 2 พ.ศ. 2561 (ดู doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001) จึงตั้งสถานะเป็น amended ในระบบนี้ หมายเหตุความคลาดเคลื่อน: หน้าเว็บ cicot.or.th (detail/342) ตั้งชื่อลิงก์/หัวข้อเป็น '...พ.ศ.2557' แต่ตัวเอกสาร PDF เดียวกัน (checksum ตรงกัน) ระบุปี พ.ศ. 2559 ชัดเจนทั้งในข้อ 1 และวันที่มติที่ประชุม (27 กันยายน 2559) — ถือว่าเนื้อหาเอกสารต้นฉบับ (2559) น่าเชื่อถือกว่าข้อความหัวเว็บ แต่บันทึกความขัดแย้งไว้ตรงนี้เพื่อความโปร่งใส",
     "scope_provinces": [],
     "keywords": [
       "คัดเลือกกรรมการมัสยิด",
@@ -26,7 +26,7 @@
     "title": "Regulation of the Central Islamic Council of Thailand on the Selection and Appointment of Mosque Islamic Committee Members B.E. 2559 (2016)",
     "title_alt": [],
     "issuing_body": "Central Islamic Council of Thailand (CICOT)",
-    "summary": "The first CICOT regulation (34 articles) on the procedure for selecting mosque Islamic committee members (including Imam, Khatib, Bilal), effective 1 January 2017, repealing the B.E. 2552 version. Defines the selection committee, voter roll, ballots, and vote-counting method. Later amended by No. 2 B.E. 2561 (see doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001), hence marked 'amended' in this archive.",
+    "summary": "The first CICOT regulation (34 articles) on the procedure for selecting mosque Islamic committee members (including Imam, Khatib, Bilal), effective 1 January 2017, repealing the B.E. 2552 version. Defines the selection committee, voter roll, ballots, and vote-counting method. Later amended by No. 2 B.E. 2561 (see doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001), hence marked 'amended' in this archive. Discrepancy note: cicot.or.th's own page (detail/342) titles this '...B.E.2557' but the identical PDF (checksum-matched) clearly states B.E.2559 in both Article 1 and the meeting-resolution date (27 September 2016). The document's own text is treated as more reliable than the website's link title, but the conflict is recorded here for transparency.",
     "keywords": [
       "mosque committee selection",
       "imam",
@@ -39,7 +39,7 @@
   },
   "source": {
     "document_pdf": "sources/originals/cicot-regulations/2559-rabiab-select-mosque-committee.pdf",
-    "document_url": null,
+    "document_url": "https://www.cicot.or.th/th/about/regulation/detail/342",
     "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
     "published_date": null,
     "retrieved_date": "2026-08-21",

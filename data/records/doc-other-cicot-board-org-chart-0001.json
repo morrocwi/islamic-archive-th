@@ -1,0 +1,44 @@
+{
+  "id": "doc-other-cicot-board-org-chart-0001",
+  "th": {
+    "title": "แผนผังองค์กร คณะกรรมการกลางอิสลามแห่งประเทศไทย",
+    "title_alt": ["CICOT Organization Chart"],
+    "category": "other",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "ภาพแผนผังองค์กรทางการที่เผยแพร่บนเว็บไซต์ cicot.or.th แสดงจุฬาราชมนตรี (ประธาน กอท.) ที่ยอด, รองประธานกรรมการ 11 คน, เลขาธิการ 1 คน, รองเลขาธิการ 11 คน, และกรรมการกลางอิสลามแห่งประเทศไทยอีกประมาณ 28 คน (รวมตามมาตรา 16 พ.ร.บ.2540: ผู้แทนจาก กอจ. แต่ละจังหวัด + กรรมการอื่นที่จุฬาราชมนตรีคัดเลือก 1 ใน 3 ของจำนวนผู้แทนจังหวัด) ไฟล์จริงเป็น PDF หน้าเดียว (ภาพสแกน/แต่งภาพความละเอียดสูง) ถูกเสิร์ฟผ่าน URL ที่ดูเหมือน HTML แต่เนื้อหาจริงคือ PDF ล้วน ใช้เป็นหลักฐานอ้างอิงประกอบ docs/CICOT_STRUCTURE.md ในระบบนี้",
+    "scope_provinces": [],
+    "keywords": ["แผนผังองค์กร","คณะกรรมการกลางอิสลาม","จุฬาราชมนตรี"],
+    "related_document_ids": ["doc-law-islamic-org-admin-act-0001"]
+  },
+  "en": {
+    "title": "Organization Chart of the Central Islamic Council of Thailand",
+    "title_alt": ["CICOT Organization Chart"],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "An official organization chart image published on cicot.or.th, showing the Chularajmontri (CICOT Chairman) at the top, 11 Vice-Chairmen, 1 Secretary-General, 11 Deputy Secretaries-General, and roughly 28 further Central Committee members (consistent with Section 16 of the 2540 Act: one representative per provincial committee plus additional members chosen by the Chularajmontri, numbering one-third of the provincial representative count). The file is served from a URL that looks like an HTML page but is actually a single-page, high-resolution PDF image. Used as supporting evidence for docs/CICOT_STRUCTURE.md in this archive.",
+    "keywords": ["organization chart","central islamic committee","chularajmontri"],
+    "translation_status": "reviewed",
+    "translated_at": "2026-08-21T19:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-org/2568-cicot-board-org-chart.pdf",
+    "document_url": "https://www.cicot.or.th/th/about/board_chart",
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": "2025-09-25",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (1 หน้า)",
+    "checksum_sha256": "516347efa8feadee476afc0e0536ddfb072acb6df5c529c9ee1cbf18a19564ee"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T19:00:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
