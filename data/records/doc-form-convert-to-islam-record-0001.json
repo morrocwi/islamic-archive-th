@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-convert-to-islam-record-0001",
+  "th": {
+    "title": "ชุดเอกสารการเข้ารับอิสลาม (แบบประวัติ + หนังสือแสดงเจตจำนง + บันทึกการเข้ารับนับถือศาสนาอิสลาม)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "ชุดเอกสาร 3 ส่วนที่ใช้เมื่อบุคคลหนึ่งเข้ารับนับถือศาสนาอิสลาม: (1) แบบประวัติผู้เข้ารับอิสลาม (ข้อมูลส่วนตัว สถานภาพสมรส อาชีพ ศาสนาเดิม วุฒิการศึกษา); (2) หนังสือแสดงเจตจำนงเข้ารับนับถือศาสนาอิสลามต่ออิหม่ามประจำมัสยิด ระบุหลักศรัทธา 6 ประการและข้อปฏิบัติ 5 ประการที่ต้องปฏิบัติ พร้อมผลทางกฎหมายต่อการสมรสเดิมหากละทิ้งอิสลามภายหลัง; (3) บันทึกการเข้ารับนับถือศาสนาอิสลาม บันทึกการกล่าวคำปฏิญาณ (ชะฮาดะฮ์) ต่อหน้าพยาน พร้อมความเห็นรับรองของอิหม่ามประจำมัสยิด",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "เข้ารับอิสลาม",
+      "ชะฮาดะฮ์",
+      "เปลี่ยนศาสนา"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Conversion to Islam Document Set (Personal History + Declaration of Intent + Conversion Record)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A 3-part document set used when a person converts to Islam: (1) a personal-history form (personal data, marital status, occupation, former religion, education); (2) a declaration of intent to the mosque imam, stating the 6 articles of faith and 5 pillars of practice the convert must follow, plus the legal effect on an existing marriage if Islam is later abandoned; (3) a conversion record documenting the shahada declaration before witnesses, with the imam's certifying opinion.",
+    "keywords": [
+      "conversion to Islam",
+      "shahada",
+      "religious conversion"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/เข้ารับอิสลาม.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "38a066323661a2b1d749eae9ac7deb3b88cd85167e4dfedc6916691b38b27801"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

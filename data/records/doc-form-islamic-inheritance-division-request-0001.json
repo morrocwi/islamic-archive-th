@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-islamic-inheritance-division-request-0001",
+  "th": {
+    "title": "คำร้องขอให้แบ่งมรดกตามบัญญัติศาสนาอิสลาม พร้อมบัญชีทายาท/ทรัพย์สิน/หนี้สิน",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "คำร้องที่ทายาทยื่นขอให้ดำเนินการแบ่งมรดกของผู้ตายตามบัญญัติศาสนาอิสลาม (ฟะรออิฎ) พร้อมเอกสารแนบ 3 รายการ: บัญชีทายาทผู้มีสิทธิรับมรดก, บัญชีทรัพย์สินของผู้ตาย, บัญชีหนี้สินของผู้ตาย ทายาททุกคนต้องลงนามยอมรับว่าจะถือผลการแบ่งเป็นที่สุดและจะไม่ฟ้องร้องภายหลัง",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "มรดก",
+      "ฟะรออิฎ",
+      "ทายาท"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Petition for Islamic Inheritance Division with Heir/Asset/Debt Schedules",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A petition heirs file to have a deceased person's estate divided under Islamic inheritance rules (fara'id), with 3 attached schedules: eligible heirs, the deceased's assets, and the deceased's debts. All heirs must sign accepting the division as final and waive future litigation over it.",
+    "keywords": [
+      "inheritance",
+      "fara'id",
+      "heirs"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/คำร้องขอให้แบ่งมรดกตามบัญญัติศาสนาอิสลาม.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "19b3b3a3e6f913fedf0adbf095bd00974e335f3217e17ec6df79b1b077fae515"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

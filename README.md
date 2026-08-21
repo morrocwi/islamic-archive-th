@@ -42,14 +42,16 @@ administrators to access this information systematically.
 ## โครงสร้าง / Structure
 
 ```
-schema/document.schema.json   JSON Schema — the canonical shape of one record
-data/records/*.json           One JSON file per document (th + en pair + source + provenance)
-sources/pdf/                  Original PDF files, referenced by data/records/*.json
+schema/document.schema.json        JSON Schema — the canonical shape of one record
+data/records/*.json                One JSON file per document (th + en pair + source + provenance)
+sources/originals/                 Original files (PDF, or native .doc/.docx for blank forms), referenced by data/records/*.json
 scripts/
-  extract_pdf_to_json.py      Stub: PDF → data/records/*.json (Thai-only extraction)
-  translate_th_to_en.py       Stub: fills/updates the en block from th
-  validate_records.py         Validates every record against the schema
-docs/PROCESS.md               Human review workflow (extraction → translation → verification)
+  extract_pdf_to_json.py           Stub: PDF → data/records/*.json (Thai-only extraction)
+  translate_th_to_en.py            Stub: fills/updates the en block from th
+  validate_records.py              Validates every record against the schema
+docs/PROCESS.md                    Human review workflow (extraction → translation → verification)
+docs/DOCUMENT_MAP.md               Backlog: which laws/regulations/forms are found vs. still pending
+docs/MOSQUE_ADMIN_FRAMEWORK.md     5-dimension organizing framework for mosque administration topics
 ```
 
 ## Categories (`th.category`)

@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-mosque-asset-registry-0001",
+  "th": {
+    "title": "ทะเบียนทรัพย์สิน (รายชิ้น)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบฟอร์มทะเบียนทรัพย์สินรายชิ้นของมัสยิด (ตัวอย่างในไฟล์ระบุประเภท 'อุปกรณ์การเรียนการสอน') บันทึกวันที่ได้มา ชนิด/แบบ/ขนาด/ยี่ห้อ จำนวน ราคาต่อหน่วย รวมเป็นเงิน คงเหลือ วิธีที่ได้มา/จำหน่าย และเลขรหัส ลงนามโดยเหรัญญิก",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ทะเบียนทรัพย์สิน",
+      "เหรัญญิก"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-annual-asset-report-0001"
+    ]
+  },
+  "en": {
+    "title": "Itemized Mosque Asset Registry Template",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "An itemized asset registry template for a mosque (the sample in the file uses the category 'teaching equipment'), recording date acquired, type/model/size/brand, quantity, unit price, total value, remaining balance, method of acquisition/disposal, and an asset code, signed by the treasurer.",
+    "keywords": [
+      "asset registry",
+      "treasurer"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/ทะเบียนทรัพย์สิน.docx",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "d5f7a1ba94c3c6eb50972bddf4981871fda69c15003f2fc8344b13d6f30f3868"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

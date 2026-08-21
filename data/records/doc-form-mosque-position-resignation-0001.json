@@ -1,0 +1,52 @@
+{
+  "id": "doc-form-mosque-position-resignation-0001",
+  "th": {
+    "title": "แบบขอลาออกจากตำแหน่ง (กรรมการ/อิหม่าม/คอเต็บ/บิหลั่นประจำมัสยิด)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือลาออกจากตำแหน่งในคณะกรรมการอิสลามประจำมัสยิด ยื่นต่อประธานกรรมการอิสลามประจำกรุงเทพมหานคร — ข้อสังเกต: ไฟล์นี้อยู่ในชุดเอกสารที่ผู้ใช้ระบุว่าเป็นของจังหวัดปทุมธานี แต่เนื้อความในแบบฟอร์มระบุผู้รับเป็น 'ประธานกรรมการอิสลามประจำกรุงเทพมหานคร' และใช้คำว่า 'แขวง/เขต' (ศัพท์ กทม.) — สันนิษฐานว่าเป็นแบบฟอร์มกลางที่ใช้ซ้ำข้ามจังหวัดโดยไม่ได้แก้ไขคำในบางส่วน ยังไม่ยืนยัน 100%",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ลาออกตำแหน่ง",
+      "กรรมการมัสยิด"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Resignation Form for a Mosque Committee Position (Committee Member / Imam / Khatib / Bilal)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A resignation letter for a position on a mosque Islamic committee, addressed to the Chair of the Bangkok Islamic Committee. Note: this file was supplied as part of the Pathum Thani set, but its body text addresses the 'Chairman of the Bangkok Islamic Committee' and uses Bangkok-specific terms ('khwaeng/khet') — likely a shared template reused across provinces without full localization; not 100% confirmed.",
+    "keywords": [
+      "position resignation",
+      "mosque committee"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/แบบขอลาออกจากตำแหน่ง-4.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "8d377b35be31b34d72c75a90c20a46e216a012a76704999a82db0ac927de1605"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

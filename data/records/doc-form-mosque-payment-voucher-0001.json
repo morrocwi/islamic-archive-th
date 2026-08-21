@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-mosque-payment-voucher-0001",
+  "th": {
+    "title": "รูปแบบใบสำคัญจ่าย (มัสยิด)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบฟอร์มใบสำคัญจ่ายเงินของมัสยิด บันทึกชื่อผู้รับเงิน รายการ จำนวนเงิน และวันที่ ใช้เป็นเอกสารประกอบการเบิกจ่ายควบคู่กับบัญชีรายรับ-รายจ่าย (doc-form-mosque-cash-book-0001)",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ใบสำคัญจ่าย",
+      "บัญชีมัสยิด"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-cash-book-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Payment Voucher Template",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A mosque disbursement-voucher template recording the payee, item, amount, and date. Used as supporting documentation for payments alongside the cash book (doc-form-mosque-cash-book-0001).",
+    "keywords": [
+      "payment voucher",
+      "mosque accounting"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/รูปแบบใบจ่ายสำคัญ.docx",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "7b0ac0ef932ac41d0e33904e00c2762edd284b20e994a979514fe53c4033a628"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

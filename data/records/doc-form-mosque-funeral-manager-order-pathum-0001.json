@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-mosque-funeral-manager-order-pathum-0001",
+  "th": {
+    "title": "คำสั่งตั้งผู้จัดการศพ (พินัยกรรมศาสนา) — ฉบับปทุมธานี",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือที่มุสลิมทำไว้ล่วงหน้าขณะมีชีวิต แต่งตั้งผู้จัดการศพของตนตามหลักการอิสลาม พร้อมผู้จัดการสำรอง (มัสยิด/คณะกรรมการอิสลามประจำมัสยิด) กรณีผู้จัดการศพหลักเสียชีวิตก่อน มีพยาน 3 คนลงนาม ยกเลิกคำสั่งฉบับก่อนหน้าทั้งหมด — มีฉบับคล้ายกันจากกรุงเทพมหานครในระบบนี้ (ดู doc-form-funeral-manager-order-bkk-0001)",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ผู้จัดการศพ",
+      "พินัยกรรมศาสนา"
+    ],
+    "related_document_ids": [
+      "doc-form-funeral-manager-order-bkk-0001"
+    ]
+  },
+  "en": {
+    "title": "Order Appointing a Funeral Manager (Religious Will) — Pathum Thani Version",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A document Muslims prepare in advance to appoint their own funeral manager under Islamic principles, with the mosque/mosque committee as backup manager if the primary one predeceases them. Signed before 3 witnesses; revokes all prior such orders. A near-identical Bangkok version exists (see doc-form-funeral-manager-order-bkk-0001).",
+    "keywords": [
+      "funeral manager",
+      "religious will"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/แบบคำสั่งตั้งผู้จัดการศพ-2.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "8ebdc66f129407bfebefbf12979f1301e7ae6009f3c44dd7fab992f901c877d5"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

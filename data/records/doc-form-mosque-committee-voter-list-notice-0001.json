@@ -1,0 +1,59 @@
+{
+  "id": "doc-form-mosque-committee-voter-list-notice-0001",
+  "th": {
+    "title": "ประกาศคณะกรรมการอิสลามประจำมัสยิด เรื่อง บัญชีผู้มีสิทธิคัดเลือกกรรมการอิสลามประจำมัสยิด",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบประกาศสำหรับคณะกรรมการอิสลามประจำมัสยิดใช้ประกาศบัญชีรายชื่อสัปปุรุษผู้มีสิทธิ์ลงคะแนนคัดเลือกกรรมการอิสลามประจำมัสยิดชุดใหม่ ประกอบด้วยตารางบันทึกบ้านเลขที่/ชื่อ-นามสกุล/เพศ/ลำดับที่/หมายเลขหลักฐาน/หมายเหตุของผู้มีสิทธิ ใช้ประกอบกระบวนการคัดเลือกกรรมการตามมาตรา 30 พ.ร.บ.การบริหารองค์กรศาสนาอิสลาม พ.ศ. 2540",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ประกาศ",
+      "บัญชีผู้มีสิทธิ",
+      "คัดเลือกกรรมการมัสยิด",
+      "สัปปุรุษ"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001",
+      "doc-form-mosque-committee-election-request-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Islamic Committee Notice: Voter Roll for the Selection of the Mosque Islamic Committee",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A notice template mosque Islamic committees use to publish the roll of congregants eligible to vote in selecting a new mosque Islamic committee. Contains a table for house number/name/sex/sequence number/ID number/remarks. Used in the committee-selection process under Section 30 of the 2540 Act.",
+    "keywords": [
+      "notice",
+      "voter roll",
+      "mosque committee election",
+      "congregant"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/ประกาศ-คณก.เรื่อง-การเลือกกรรมการมัสยิด.docx",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "a7ab990f4d1c909f2a2d2a4c1bfd593ff7fa77d2bc50552b6c04521cc8328d9b"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

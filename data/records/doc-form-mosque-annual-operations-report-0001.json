@@ -1,0 +1,55 @@
+{
+  "id": "doc-form-mosque-annual-operations-report-0001",
+  "th": {
+    "title": "รายงานผลการดำเนินงานประจำปี (มัสยิด)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบรายงานสรุปผลการดำเนินงานประจำปีของมัสยิด ระบุที่ตั้ง ทะเบียนเลขที่ และกิจกรรม/ผลงานในรอบปี ส่งให้คณะกรรมการอิสลามประจำจังหวัดทราบภายในเดือนมีนาคมของทุกปีตามมาตรา 35(10) พ.ร.บ.2540",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "รายงานประจำปี",
+      "ผลการดำเนินงาน"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001",
+      "doc-form-mosque-annual-asset-report-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Annual Operations Report Template",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A template summarizing a mosque's annual operations, location, registration number, and the year's activities/results, submitted to the provincial Islamic committee within March each year under Section 35(10) of the 2540 Act.",
+    "keywords": [
+      "annual report",
+      "mosque operations"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/รายงานผลการดำเนินงาน.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "9b4b4be582dc70a4848af3e3d1afbc69c317e88d9db5d68dc9113ed988e48928"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

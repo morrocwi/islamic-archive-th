@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-divorce-record-talaq-0001",
+  "th": {
+    "title": "บันทึกการหย่า (กรณีมีตะลาก)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบบันทึกการหย่าอีกฉบับหนึ่ง ใช้ในกรณีที่มีการกล่าวตะลาก (คำหย่าตามหลักการอิสลาม) โดยอิหม่ามประจำมัสยิดเป็นผู้สอบสวน คล้ายกับ doc-form-divorce-record-0001 แต่เป็นคนละแบบฟอร์ม (ยังไม่ยืนยันความแตกต่างที่ชัดเจนระหว่างสองฉบับ ต้องเทียบเนื้อหาเต็มอีกครั้ง)",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "หย่า",
+      "ตะลาก"
+    ],
+    "related_document_ids": [
+      "doc-form-divorce-record-0001"
+    ]
+  },
+  "en": {
+    "title": "Divorce Record (Talaq Case)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "Another divorce-record template, used for cases where a talaq (Islamic divorce pronouncement) has been made, with the mosque imam as investigator. Similar to doc-form-divorce-record-0001 but a distinct form (the precise difference between the two has not yet been confirmed and needs a full side-by-side read).",
+    "keywords": [
+      "divorce",
+      "talaq"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/แบบบันทึกการหย่า-โดยมีตะเลค.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "30767e3d573b9794bd10ac6d24f5be46ee4b39d154cf91317724385bcc364988"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

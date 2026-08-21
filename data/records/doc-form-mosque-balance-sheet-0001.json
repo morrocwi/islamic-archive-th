@@ -1,0 +1,55 @@
+{
+  "id": "doc-form-mosque-balance-sheet-0001",
+  "th": {
+    "title": "รูปแบบงบดุล (บัญชีรายรับ-รายจ่ายมัสยิด)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบฟอร์มงบดุล ณ วันที่ 30 ธันวาคมของปี แสดงสินทรัพย์ (เงินสด เงินฝากธนาคาร ฯลฯ) ของมัสยิด ใช้คู่กับบัญชีรายรับ-รายจ่ายเป็นส่วนหนึ่งของรายงานการเงินประจำปี",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "งบดุล",
+      "สินทรัพย์มัสยิด"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-cash-book-0001",
+      "doc-form-mosque-annual-asset-report-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Balance Sheet Template",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A balance sheet template as of 30 December showing a mosque's assets (cash, bank deposits, etc.), used alongside the cash book as part of the annual financial report.",
+    "keywords": [
+      "balance sheet",
+      "mosque assets"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/รูปแบบงานงบดุล.docx",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "bd9df4deda4426b269fc9e88c6e5667c3b50212773234b871475195d1e704db9"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

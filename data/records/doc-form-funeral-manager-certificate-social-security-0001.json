@@ -1,0 +1,52 @@
+{
+  "id": "doc-form-funeral-manager-certificate-social-security-0001",
+  "th": {
+    "title": "หนังสือรับรองการเป็นผู้จัดการศพ (กรณีผู้เสียชีวิตมีประกันสังคม)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือที่ประธานกรรมการอิสลามประจำมัสยิดออกให้ เพื่อรับรองว่าผู้ใดเป็นผู้จัดการศพของผู้เสียชีวิต ระบุสถานที่/วันที่เสียชีวิต เลขที่ใบมรณบัตร สถานที่ฝังศพ และค่าใช้จ่ายในการจัดการศพ ใช้เป็นหลักฐานประกอบการเบิกสิทธิประโยชน์ทดแทนกรณีเสียชีวิตจากสำนักงานประกันสังคม (ระบุในหมายเหตุท้ายแบบฟอร์ม)",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "ผู้จัดการศพ",
+      "ประกันสังคม"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Certificate of Funeral Manager Status (Social Security Death Benefit Case)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A certificate issued by a mosque committee chair confirming who managed a deceased person's funeral, stating the place/date of death, death certificate number, burial location, and funeral costs. Used as supporting evidence for claiming the Social Security Office's death benefit (per the form's footnote).",
+    "keywords": [
+      "funeral manager",
+      "social security"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/หนังสือรับรองการเป็นผู้จัดการศพ-กรณีมีประกันสังคม.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "e0179876db2361dac58a3ade8312d55ef124aee1e0f68ff1d8fe7a407bb62eb9"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-marriage-annulment-faskh-0001",
+  "th": {
+    "title": "คำร้องขอยกเลิกการสมรส (ฟะซัคนิกาห์) พร้อมหนังสือรับรองสัปปุรุษ",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "คำร้องที่ภรรยายื่นต่อกอฎีประจำคณะกรรมการอิสลามประจำกรุงเทพมหานคร ขอให้ยกเลิกการสมรส (ฟะซัคนิกาห์) ระบุสถานะการจดทะเบียน/หย่าตามกฎหมายและเหตุผลของคำร้อง มีส่วนความเห็นของอิหม่ามประจำมัสยิดจากการสอบสวนคำร้อง พร้อมรายการเอกสารประกอบ (เอกสารหย่าทางราชการ สำเนาบัตรประชาชน รูปถ่าย หนังสือรับรองการเป็นสัปปุรุษ) และแบบหนังสือรับรองการเป็นสัปปุรุษประจำมัสยิดแนบท้าย",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "ฟะซัคนิกาห์",
+      "ยกเลิกการสมรส",
+      "กอฎี"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Petition for Marriage Annulment (Faskh Nikah) with Congregant Certificate",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A petition a wife files with the Qadi of the Bangkok Islamic Committee to annul a marriage (faskh nikah), stating civil registration/divorce status and the grounds for the petition. Includes the investigating imam's opinion section and a list of required attachments (civil divorce papers, ID copy, photos, congregant certificate), with a congregant-certificate template attached.",
+    "keywords": [
+      "faskh",
+      "marriage annulment",
+      "qadi"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/คำร้องขอยกเลิกการสมรส-ฟะซัค.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "3ee733fa03d02a69890d1e73e0e1f04bc6b9582b740ae15f6980b06cb59540ac"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

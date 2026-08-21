@@ -1,0 +1,56 @@
+{
+  "id": "doc-form-mosque-cash-book-0001",
+  "th": {
+    "title": "รูปแบบบัญชีรายรับ-รายจ่ายประจำมัสยิด (รายเดือน)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบฟอร์มสมุดบัญชีรายวัน บันทึกรายรับ-รายจ่ายของมัสยิดเป็นรายเดือน มีคอลัมน์วันที่ รายการ รายรับ รายจ่าย และยอดคงเหลือยกไป ใช้เป็นหลักฐานทางบัญชีตามหน้าที่เหรัญญิกในมาตรา 35(10) พ.ร.บ.การบริหารองค์กรศาสนาอิสลาม พ.ศ. 2540",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "บัญชีมัสยิด",
+      "เหรัญญิก",
+      "รายรับ-รายจ่าย"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Monthly Cash Receipts and Disbursements Book Template",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A monthly cash book template recording the mosque's daily receipts and disbursements, with columns for date, item, receipts, disbursements, and carried-forward balance. Used as accounting evidence under the treasurer's duty in Section 35(10) of the 2540 Act.",
+    "keywords": [
+      "mosque accounting",
+      "treasurer",
+      "cash book"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/รูปแบบบัญชีรายรับ-รายจ่าย.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "c451a6a9deec87ccd33876a80f99aa454c3e779350746c73b278e1601fec59e1"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

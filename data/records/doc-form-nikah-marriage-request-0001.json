@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-nikah-marriage-request-0001",
+  "th": {
+    "title": "หนังสือขอให้ทำการสมรส (นิกาห์) ตามหลักการศาสนาอิสลาม",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือที่ฝ่ายหญิงยื่นต่ออิหม่ามประจำมัสยิด ขอให้ทำการสมรส (นิกาห์) กับฝ่ายชาย ระบุข้อมูลคู่สมรสทั้งสองฝ่าย พร้อมส่วนความเห็นของอิหม่ามว่าเห็นชอบหรือไม่เห็นชอบและเหตุผล มีหมายเหตุระบุใช้ในกรณีที่ฝ่ายหญิงไม่มีผู้ปกครอง (วะลี)",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "นิกาห์",
+      "สมรส",
+      "วะลี"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Request for Islamic Marriage (Nikah)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A letter the bride submits to the mosque imam requesting an Islamic marriage (nikah) with the groom, giving both parties' details, with the imam's section to approve or reject and state reasons. A note specifies it applies when the bride has no guardian (wali).",
+    "keywords": [
+      "nikah",
+      "Islamic marriage",
+      "wali"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/บันทึกการแต่งงาน.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "deee6aca6d5c21cbc7da255863a3093733f489d022062951ffd0996415828236"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

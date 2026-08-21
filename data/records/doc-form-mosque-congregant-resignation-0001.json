@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-mosque-congregant-resignation-0001",
+  "th": {
+    "title": "แบบขอลาออกจากการเป็นสัปปุรุษประจำมัสยิด",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือที่หัวหน้าครอบครัวหรือผู้ได้รับมอบหมายใช้ยื่นขอถอนชื่อตนเองหรือสมาชิกครอบครัวออกจากทะเบียนสัปปุรุษประจำมัสยิด ยื่นต่อประธานกรรมการอิสลามประจำมัสยิด",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "สัปปุรุษ",
+      "ลาออก"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-congregant-application-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Congregant (Sappuroot) Resignation Form",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A letter used by a family head or their designee to request removal of themselves or a family member from a mosque's congregant registry, submitted to the mosque committee chair.",
+    "keywords": [
+      "congregant",
+      "resignation"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/แบบขอลาออกจากการเป็นสัปปุรุษประจำมัสยิด-.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "1b67875db489f77f58a93aa5ce29444485c462e63790400861555251332b1269"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

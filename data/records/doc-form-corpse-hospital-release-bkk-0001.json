@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-corpse-hospital-release-bkk-0001",
+  "th": {
+    "title": "หนังสือขอรับศพมุสลิม (จากมัสยิดถึงโรงพยาบาล) — ฉบับกรุงเทพมหานคร",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือที่อิหม่ามประจำมัสยิดในกรุงเทพฯ ใช้ยื่นต่อผู้อำนวยการโรงพยาบาล ขอรับศพผู้เสียชีวิตที่นับถือศาสนาอิสลามออกไปประกอบพิธีทางศาสนาและฝังที่สุสานมัสยิดโดยด่วน มีเลขที่หนังสือรูปแบบ 'กอม.กท.(...)...' — มีฉบับคล้ายกันจากปทุมธานีในระบบนี้ (ดู doc-form-mosque-corpse-hospital-release-pathum-0001)",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "ขอรับศพ",
+      "โรงพยาบาล"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-corpse-hospital-release-pathum-0001"
+    ]
+  },
+  "en": {
+    "title": "Request for Release of a Muslim Body from a Hospital — Bangkok Version",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A letter mosque imams in Bangkok submit to a hospital director requesting urgent release of a deceased Muslim's body for Islamic funeral rites and burial at the mosque cemetery, using a 'กอม.กท.(...)' reference-number format. A near-identical Pathum Thani version exists in this archive (see doc-form-mosque-corpse-hospital-release-pathum-0001).",
+    "keywords": [
+      "corpse release",
+      "hospital"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/หนังสือขอรับศพมุสลิม.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "59ee7f24cb9106c4d7c0b2fedb4a0dbef918b26256f7eba8354edcdc7aaa2c5f"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

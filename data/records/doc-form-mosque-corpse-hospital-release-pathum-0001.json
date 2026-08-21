@@ -1,0 +1,56 @@
+{
+  "id": "doc-form-mosque-corpse-hospital-release-pathum-0001",
+  "th": {
+    "title": "แบบหนังสือการอนุญาตนำศพออกจากโรงพยาบาล (ขอรับศพมุสลิม) — ฉบับปทุมธานี",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือจากมัสยิดถึงผู้อำนวยการโรงพยาบาล ขอรับศพผู้เสียชีวิตที่นับถือศาสนาอิสลามออกจากโรงพยาบาลเพื่อนำไปประกอบพิธีทางศาสนาและฝังที่สุสานมัสยิด มีฉบับคล้ายกันจากกรุงเทพมหานครในระบบนี้เช่นกัน (ดู doc-form-corpse-hospital-release-bkk-0001) — เนื้อหาใกล้เคียงกันมาก ต่างกันที่ปทุมธานีไม่มีเลขที่หนังสือรูปแบบ กอม.กท. กำกับ",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ขอรับศพ",
+      "โรงพยาบาล",
+      "ฝังศพ"
+    ],
+    "related_document_ids": [
+      "doc-form-corpse-hospital-release-bkk-0001"
+    ]
+  },
+  "en": {
+    "title": "Hospital Corpse Release Authorization Form (Request for a Muslim Body) — Pathum Thani Version",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A letter from a mosque to a hospital director requesting release of a deceased Muslim's body for Islamic funeral rites and burial at the mosque cemetery. A near-identical Bangkok version also exists in this archive (see doc-form-corpse-hospital-release-bkk-0001); this Pathum Thani version lacks the 'กอม.กท.' reference-number format used in the Bangkok one.",
+    "keywords": [
+      "corpse release",
+      "hospital",
+      "Muslim burial"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/แบบหนังสือการอนุญาตนำศพออกจากโรงพยาบาล-2.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "9cd2a38161caf52cabd68fe26ce4ec1bb53364c7d0696cd5157a3889e409bc92"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

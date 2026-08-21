@@ -24,8 +24,8 @@
         },
         "category": {
           "type": "string",
-          "enum": ["law", "regulation", "circular", "guideline", "research", "other"],
-          "description": "law=พ.ร.บ./กฎหมายระดับพระราชบัญญัติ, regulation=กฎกระทรวง/ระเบียบ/ประกาศ, circular=หนังสือเวียน/คำสั่ง, guideline=แนวทางบริหาร/คู่มือ, research=งานวิจัย/บทความวิชาการ, other=อื่นๆ"
+          "enum": ["law", "regulation", "circular", "guideline", "form", "research", "other"],
+          "description": "law=พ.ร.บ./กฎหมายระดับพระราชบัญญัติ, regulation=กฎกระทรวง/ระเบียบ/ประกาศ, circular=หนังสือเวียน/คำสั่ง, guideline=แนวทางบริหาร/คู่มือ, form=แบบฟอร์ม/เอกสารเปล่าที่มัสยิดกรอกใช้งานจริง (ไม่ใช่ตัวบทกฎหมาย แต่เป็นเอกสารที่กฎหมาย/ระเบียบกำหนดให้ต้องมี), research=งานวิจัย/บทความวิชาการ, other=อื่นๆ"
         },
         "issuing_body": { "type": ["string", "null"], "description": "หน่วยงานผู้ออกเอกสาร เช่น สำนักจุฬาราชมนตรี, กระทรวงมหาดไทย, คณะกรรมการอิสลามประจำจังหวัด" },
         "document_no": { "type": ["string", "null"], "description": "เลขที่เอกสาร/เลขที่ประกาศ/เลขที่ระเบียบ ตามต้นฉบับ" },
@@ -76,12 +76,12 @@
       "properties": {
         "document_pdf": {
           "type": ["string", "null"],
-          "description": "Relative path under sources/pdf/ to the original PDF this record was extracted from."
+          "description": "Relative path under sources/originals/ to the original file this record was extracted from (PDF, or a native Office file — .doc/.docx — for blank forms supplied as such; the key name is kept for backward compatibility but is not PDF-only)."
         },
         "document_url": {
           "type": ["string", "null"],
           "format": "uri",
-          "description": "Original source URL the PDF was retrieved from (ราชกิจจานุเบกษา, เว็บหน่วยงาน, ฯลฯ)."
+          "description": "Original source URL the file was retrieved from (ราชกิจจานุเบกษา, เว็บหน่วยงาน, ฯลฯ). Null when the original has no known public URL (e.g. a local file supplied directly by a user/mosque office) — the file itself under sources/originals/ is still required as the source of truth."
         },
         "publisher": { "type": ["string", "null"], "description": "ผู้เผยแพร่/หน่วยงานเจ้าของเอกสาร" },
         "published_date": { "type": ["string", "null"], "format": "date" },

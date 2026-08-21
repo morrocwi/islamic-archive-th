@@ -1,0 +1,55 @@
+{
+  "id": "doc-form-mosque-financial-status-report-0001",
+  "th": {
+    "title": "แบบรายงานผลการดำเนินงาน ฐานะการเงิน และทะเบียนทรัพย์สินของมัสยิด (หนังสือนำส่ง)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือนำส่งที่มัสยิดใช้ส่งรายงานผลการดำเนินงาน ฐานะการเงิน และทะเบียนทรัพย์สินประจำปีให้คณะกรรมการอิสลามประจำจังหวัด ระบุที่ตั้งและทะเบียนเลขที่ของมัสยิด ใช้คู่กับ doc-form-mosque-annual-operations-report-0001 และ doc-form-mosque-annual-asset-report-0001",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "หนังสือนำส่งรายงาน",
+      "ฐานะการเงิน"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-annual-operations-report-0001",
+      "doc-form-mosque-annual-asset-report-0001"
+    ]
+  },
+  "en": {
+    "title": "Cover Letter for the Annual Operations, Financial Status, and Asset Registry Report of a Mosque",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A cover letter mosques use to submit their annual operations, financial status, and asset registry report to the provincial Islamic committee, stating the mosque's location and registration number. Used together with doc-form-mosque-annual-operations-report-0001 and doc-form-mosque-annual-asset-report-0001.",
+    "keywords": [
+      "report cover letter",
+      "financial status"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/แบบรายงานผลการดำเนิน-ฐานะการเงิน.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "43ea9676a4ae2c737b7fc55784ba45e01761e306057854ce9fa488ab98008a33"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

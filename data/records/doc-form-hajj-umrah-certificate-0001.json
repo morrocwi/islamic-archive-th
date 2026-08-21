@@ -1,0 +1,58 @@
+{
+  "id": "doc-form-hajj-umrah-certificate-0001",
+  "th": {
+    "title": "แบบฟอร์มหนังสือรับรองศาสนา (สำหรับฮัจย์-อุมเราะห์)",
+    "title_alt": [
+      "شهادة الديانة"
+    ],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบฟอร์มภาษาอาหรับทั้งฉบับ ('شهادة الديانة' — หนังสือรับรองศาสนา) หัวเอกสารระบุออกโดย 'اللجنة الإسلامية ببانكوك' (คณะกรรมการอิสลามกรุงเทพมหานคร) รับรองว่าผู้ถือหนังสือเดินทางเป็นมุสลิม ใช้ประกอบการยื่นขอวีซ่า/เดินทางไปประกอบพิธีฮัจย์หรืออุมเราะห์ — หมายเหตุความน่าเชื่อถือ: ทีมงานยังไม่ได้แปลเนื้อหาภาษาอาหรับทั้งหมดแบบละเอียด สรุปนี้อ่านจากส่วนหัวเอกสารเท่านั้น ต้องให้ผู้เชี่ยวชาญภาษาอาหรับตรวจทานก่อน mark เป็น verified",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "ฮัจย์",
+      "อุมเราะห์",
+      "หนังสือรับรองศาสนา"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Religious Identity Certificate Form (for Hajj / Umrah)",
+    "title_alt": [
+      "Shahādat al-Diyānah"
+    ],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A form entirely in Arabic ('شهادة الديانة' — Certificate of Religion), with the header indicating it is issued by 'اللجنة الإسلامية ببانكوك' (the Islamic Committee of Bangkok), certifying that the passport holder is Muslim, for use with visa applications for Hajj or Umrah travel. Reliability note: only the document header has been read closely; the full Arabic body has not yet been translated in detail — an Arabic-fluent reviewer should check this before it is marked verified.",
+    "keywords": [
+      "Hajj",
+      "Umrah",
+      "religious certificate"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/แบบฟอร์มหนังสือรับรองฮัจย์-อุมเราะห์.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "2d5e47af65f72ce0ecf7d70498f3cefcf8f61feda9a3109977f7d2c0819b6995"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

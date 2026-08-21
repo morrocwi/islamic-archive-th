@@ -1,0 +1,66 @@
+{
+  "id": "doc-guideline-krabi-mosque-admin-manual-0001",
+  "th": {
+    "title": "คู่มือการบริหารมัสยิด (สำนักงานคณะกรรมการอิสลามประจำจังหวัดกระบี่)",
+    "title_alt": ["คู่มือการบริหารมัสยิดจังหวัดกระบี่"],
+    "category": "guideline",
+    "issuing_body": "สำนักงานคณะกรรมการอิสลามประจำจังหวัดกระบี่",
+    "document_no": null,
+    "enacted_date_be": "20 กรกฎาคม 2568",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "คู่มือ 138 หน้า จัดทำโดยสำนักงานคณะกรรมการอิสลามประจำจังหวัดกระบี่ เป็นเอกสารประกอบการอบรมตามโครงการพัฒนาศักยภาพคณะกรรมการอิสลามประจำมัสยิด เพื่อให้กรรมการเข้าใจบทบาทหน้าที่ตาม พ.ร.บ.การบริหารองค์กรศาสนาอิสลาม พ.ศ. 2540 และบริหารจัดการมัสยิดได้อย่างมีประสิทธิภาพ เนื้อหาแบ่งเป็น: (1) บทบาทของมัสยิดในการพัฒนาชุมชนอย่างยั่งยืน; (2) สรุป พ.ร.บ.การบริหารองค์กรศาสนาอิสลาม พ.ศ. 2540 (เทียบได้กับ doc-law-islamic-org-admin-act-0001 ในระบบนี้); (3) สิบสองฮะดีษที่เกี่ยวข้องกับผู้นำในอิสลาม; (4) โครงสร้างการบริหารมัสยิดและตัวอย่างคำสั่งแต่งตั้งคณะกรรมการมอบหมายหน้าที่; (5) บทบาทหน้าที่โดยละเอียดของแต่ละตำแหน่ง/ฝ่ายพร้อมเอกสารที่เกี่ยวข้องในการดำเนินงาน ได้แก่ อิหม่าม คอเต็บ บิหลั่น ฝ่ายเลขานุการ นายทะเบียน เหรัญญิก ฝ่ายวิชาการ ฝ่ายการศึกษา ฝ่ายกิจการฮาลาล ฝ่ายซะกาตและสังคมสงเคราะห์ ฝ่ายประชาสัมพันธ์ ฝ่ายอาคารสถานที่และพัสดุ ฝ่ายนิติการ ฝ่ายกิจกรรมพิเศษ ฝ่ายสตรีและเยาวชน; (6) การแบ่งเขตความรับผิดชอบกำกับดูแลมัสยิดของคณะกรรมการอิสลามประจำจังหวัด; (7) รายชื่อคณะอนุกรรมการมุสลิมะห์ (ผู้ประสานงาน) จังหวัดกระบี่. เอกสารนี้ครอบคลุมมิติที่ 1, 2, 3 และ 5 ใน docs/MOSQUE_ADMIN_FRAMEWORK.md ของระบบนี้ในระดับปฏิบัติจริง (ไม่ใช่แค่ตัวบทกฎหมาย)",
+    "scope_provinces": ["กระบี่"],
+    "keywords": [
+      "คู่มือบริหารมัสยิด",
+      "กระบี่",
+      "อิหม่าม",
+      "คอเต็บ",
+      "บิหลั่น",
+      "นายทะเบียน",
+      "เหรัญญิก",
+      "ฝ่ายฮาลาล",
+      "ซะกาต",
+      "ฝ่ายสตรีและเยาวชน"
+    ],
+    "related_document_ids": ["doc-law-islamic-org-admin-act-0001"]
+  },
+  "en": {
+    "title": "Mosque Administration Manual (Office of the Provincial Islamic Committee of Krabi)",
+    "title_alt": ["Krabi Mosque Administration Manual"],
+    "issuing_body": "Office of the Provincial Islamic Committee of Krabi",
+    "summary": "A 138-page manual produced as training material for a mosque-committee capacity-building program, intended to help committee members understand their roles under the Islamic Organization Administration Act B.E. 2540 and administer mosques effectively. Covers: the mosque's role in sustainable community development; a summary of the 2540 Act (paired with doc-law-islamic-org-admin-act-0001 in this archive); twelve hadiths on leadership in Islam; mosque administrative structure and a sample committee-appointment order; detailed duties and related documents for each role — Imam, Khatib, Bilal, Secretariat, Registrar, Treasurer, Academic Affairs, Education, Halal Affairs, Zakat & Social Welfare, Public Relations, Facilities & Procurement, Legal Affairs, Special Activities, and Women & Youth; how the provincial Islamic committee divides oversight zones across mosques; and a roster of Krabi's Muslimah (women's) subcommittee coordinators. This document operationalizes Dimensions 1, 2, 3, and 5 of this archive's docs/MOSQUE_ADMIN_FRAMEWORK.md.",
+    "keywords": [
+      "mosque administration manual",
+      "Krabi",
+      "Imam",
+      "Khatib",
+      "Bilal",
+      "registrar",
+      "treasurer",
+      "halal affairs",
+      "zakat",
+      "women and youth affairs"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T15:10:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/krabi/2568-khumue-borihan-masyid-krabi.pdf",
+    "document_url": null,
+    "publisher": "สำนักงานคณะกรรมการอิสลามประจำจังหวัดกระบี่",
+    "published_date": "2025-07-20",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งเล่ม (138 หน้า)",
+    "checksum_sha256": "0b4673de765758379e48795379f1ef6adf765773c2fcd8dd52dfff44ef9f9755"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T15:10:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

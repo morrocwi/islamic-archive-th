@@ -1,0 +1,55 @@
+{
+  "id": "doc-form-mosque-congregant-application-0001",
+  "th": {
+    "title": "แบบสมัคร/ยืนยันการเป็นสัปปุรุษประจำมัสยิด",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบฟอร์มที่มุสลิมใช้ยื่นสมัครหรือยืนยันสถานะเป็นสัปปุรุษ (congregant) ของมัสยิดหนึ่งแห่ง ยื่นต่อประธานกรรมการอิสลามประจำมัสยิด เป็นฐานสำหรับทะเบียนสัปปุรุษตามคำนิยามในมาตรา 4 และหน้าที่จัดทำทะเบียนในมาตรา 35(8) พ.ร.บ.2540",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "สัปปุรุษ",
+      "ทะเบียนสัปปุรุษ"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001",
+      "doc-form-mosque-congregant-resignation-0001"
+    ]
+  },
+  "en": {
+    "title": "Mosque Congregant (Sappuroot) Application / Confirmation Form",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A form Muslims use to apply for or confirm congregant (sappuroot) status at a specific mosque, submitted to the mosque committee chair. Forms the basis of the congregant registry defined in Section 4 and required under Section 35(8) of the 2540 Act.",
+    "keywords": [
+      "congregant",
+      "sappuroot registry"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/แบบสมัครและยืนยันการเป็นสัปปุรุษประจำมั-.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "939fed6b63b2142c168cd39ea94cc6bf7a76be1f5a9a75d791be9cfd3ab599d8"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

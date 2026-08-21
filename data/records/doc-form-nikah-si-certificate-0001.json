@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-nikah-si-certificate-0001",
+  "th": {
+    "title": "หนังสือรับรองนิกาห์ซี (ไฟล์สแกนภาพ ยังไม่ได้อ่านเนื้อหา)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "ไฟล์นี้เป็น PDF จากการสแกนเอกสารกระดาษ (สร้างด้วย ScanPDFMaker, เครื่องพิมพ์ Samsung-CLX-9301) ไม่มีชั้นข้อความให้สกัดอัตโนมัติ (pdftotext ได้ผลลัพธ์ว่างเปล่า) ทีมงานยังไม่ได้อ่าน/พิมพ์เนื้อหาจริงจากภาพสแกน ทราบเพียงชื่อไฟล์ที่ผู้ใช้ให้มาคือ 'หนังสือรับรองนิกาห์สี' — ห้ามถือสรุปนี้เป็นข้อเท็จจริงเกี่ยวกับเนื้อหาเอกสาร จนกว่าจะมีการทำ OCR หรือให้มนุษย์อ่านและพิมพ์เนื้อหาใหม่",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "นิกาห์ซี",
+      "สแกนภาพ",
+      "รอ OCR"
+    ],
+    "related_document_ids": []
+  },
+  "en": {
+    "title": "Nikah Si Certificate (Scanned Image File — Content Not Yet Read)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "This file is a scanned-paper PDF (produced by ScanPDFMaker via a Samsung-CLX-9301 printer/scanner) with no extractable text layer (pdftotext returned empty output). The team has not yet read or transcribed the actual scanned content — only the filename supplied by the user, 'หนังสือรับรองนิกาห์สี' (Nikah Si Certificate), is known. Do not treat this summary as a fact about the document's content until it is OCR'd or transcribed by a human.",
+    "keywords": [
+      "nikah si",
+      "scanned image",
+      "OCR pending"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/หนังสือรับรองนิกาห์สี.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "a534be48e09ec9aab34cc45a51e001616cf8e7f1ec28d5254720cb3576f9f20f"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

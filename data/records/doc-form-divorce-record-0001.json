@@ -1,0 +1,54 @@
+{
+  "id": "doc-form-divorce-record-0001",
+  "th": {
+    "title": "บันทึกการหย่า (บันทึกการสอบสวนโดยอิหม่าม)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "บันทึกที่อิหม่ามประจำมัสยิดในกรุงเทพฯ ใช้บันทึกผลการสอบสวนคำร้องหย่าที่ภรรยายื่น มีฉบับใกล้เคียงกันอีกฉบับในระบบนี้สำหรับกรณีมีตะลาก (ดู doc-form-divorce-record-talaq-0001)",
+    "scope_provinces": [
+      "กรุงเทพมหานคร"
+    ],
+    "keywords": [
+      "หย่า",
+      "บันทึกการสอบสวน"
+    ],
+    "related_document_ids": [
+      "doc-form-divorce-record-talaq-0001"
+    ]
+  },
+  "en": {
+    "title": "Divorce Record (Imam's Investigation Record)",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in กรุงเทพมหานคร (originating drafting authority not precisely known)",
+    "summary": "A record mosque imams in Bangkok use to document their investigation of a wife's divorce petition. A closely related variant for cases involving a talaq pronouncement also exists in this archive (see doc-form-divorce-record-talaq-0001).",
+    "keywords": [
+      "divorce",
+      "investigation record"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bangkok-forms/บันทึกการหย่า.pdf",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในกรุงเทพมหานคร (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "f66737df9cb9458f64a71c2448ce0d3133622ea4165c463c3d2e82015d2a775b"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

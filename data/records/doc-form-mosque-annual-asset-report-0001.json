@@ -1,0 +1,55 @@
+{
+  "id": "doc-form-mosque-annual-asset-report-0001",
+  "th": {
+    "title": "รายงานทรัพย์สิน (ประจำปี)",
+    "title_alt": [],
+    "category": "form",
+    "issuing_body": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แบบรายงานสรุปทรัพย์สินหมุนเวียน (เงินสด เงินฝากธนาคาร) และทรัพย์สินถาวรของมัสยิด สำหรับรอบ 1 มกราคม ถึง 31 ธันวาคมของปี ใช้ส่งพร้อมรายงานผลการดำเนินงานประจำปีตามมาตรา 35(10) พ.ร.บ.2540",
+    "scope_provinces": [
+      "ปทุมธานี"
+    ],
+    "keywords": [
+      "ทรัพย์สินมัสยิด",
+      "รายงานประจำปี"
+    ],
+    "related_document_ids": [
+      "doc-form-mosque-annual-operations-report-0001",
+      "doc-form-mosque-balance-sheet-0001"
+    ]
+  },
+  "en": {
+    "title": "Annual Mosque Asset Report Template",
+    "title_alt": [],
+    "issuing_body": "Form in actual use in ปทุมธานี (originating drafting authority not precisely known)",
+    "summary": "A template summarizing a mosque's current assets (cash, bank deposits) and fixed assets for the period 1 January to 31 December, submitted alongside the annual operations report under Section 35(10) of the 2540 Act.",
+    "keywords": [
+      "mosque assets",
+      "annual report"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T16:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/pathum-thani-forms/รายงานทรัพย์สิน.doc",
+    "document_url": null,
+    "publisher": "แบบฟอร์มที่ใช้งานจริงในปทุมธานี (ไม่ทราบหน่วยงานผู้ออกแบบต้นทางแน่ชัด)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ",
+    "checksum_sha256": "6be331dae1b3e27df2fcf66edd49e3f642e5d09023c62c36e61f622589a7038b"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T16:00:00+07:00",
+    "extraction_method": "mixed",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
