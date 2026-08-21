@@ -1,0 +1,44 @@
+{
+  "id": "doc-other-provincial-halal-offices-directory-0001",
+  "th": {
+    "title": "ที่อยู่สำนักงานคณะกรรมการอิสลามประจำจังหวัดทั่วราชอาณาจักร (ฝ่ายกิจการฮาลาล)",
+    "title_alt": [],
+    "category": "other",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "ทำเนียบที่อยู่/เบอร์ติดต่อสำนักงานฝ่ายกิจการฮาลาลของคณะกรรมการอิสลามประจำจังหวัด 40 จังหวัด บวกสำนักงานส่วนกลาง เผยแพร่สาธารณะบนเว็บไซต์ cicot.or.th เอง (หน้าเว็บระบุวันที่ปรับปรุงล่าสุด 23 พ.ค. 2562) ตรวจสอบแล้วว่าตรงกับข้อมูลต้นฉบับทุกตัวอักษร ใช้เป็นหลักฐานยืนยันตัวเลข 'ผู้แทน 40 จังหวัด' ใน CICOT ตาม docs/CICOT_STRUCTURE.md เนื้อหาแบบเต็ม (รวมชื่อผู้ประสานงาน/เบอร์ติดต่อรายบุคคลตามที่เผยแพร่จริง) อยู่ที่ docs/PROVINCIAL_HALAL_OFFICES.md — ข้อมูลนี้มีอายุตั้งแต่ปี 2562 อาจไม่ตรงกับปัจจุบันแล้ว",
+    "scope_provinces": [],
+    "keywords": ["ทำเนียบสำนักงาน","ฝ่ายกิจการฮาลาล","กอจ."],
+    "related_document_ids": ["doc-other-cicot-board-org-chart-0001"]
+  },
+  "en": {
+    "title": "Directory of Provincial Islamic Committee Halal-Affairs Offices Nationwide",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "A directory of addresses/contacts for the Halal Affairs office of the provincial Islamic committee in 40 provinces, plus the central office, published by CICOT itself on cicot.or.th (page last updated per the site: 23 May 2019). Verified character-for-character against the original page. Used as evidence for the '40 provincial representatives' figure in CICOT cited in docs/CICOT_STRUCTURE.md. Full content (including named contact persons/personal phone numbers as actually published) is kept in docs/PROVINCIAL_HALAL_OFFICES.md - this data dates to 2019 and may no longer be current.",
+    "keywords": ["office directory","halal affairs","provincial islamic committee"],
+    "translation_status": "reviewed",
+    "translated_at": "2026-08-21T21:00:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": null,
+    "document_url": "https://www.cicot.or.th/th/about/committee/detail/297/33/ที่อยู่สำนักงานคณะกรรมการอิสลามประจำจังหวัดทั่วราชอาณาจักร",
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": "2019-05-23",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งหน้า",
+    "checksum_sha256": null
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T21:00:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

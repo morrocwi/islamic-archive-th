@@ -54,6 +54,7 @@ docs/DOCUMENT_MAP.md               Backlog: which laws/regulations/forms are fou
 docs/MOSQUE_ADMIN_FRAMEWORK.md     5-dimension organizing framework for mosque administration topics
 docs/CICOT_STRUCTURE.md            CICOT's legal status, institutional DAG, and department functions
 docs/RELATED_ORGANIZATIONS.md       Semi-private associations/foundations that interface with state agencies
+docs/PROVINCIAL_HALAL_OFFICES.md    Directory of provincial Islamic committee halal-affairs offices (from cicot.or.th)
 ```
 
 ## Categories (`th.category`)
