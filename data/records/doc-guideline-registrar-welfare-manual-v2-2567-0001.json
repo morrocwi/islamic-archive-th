@@ -10,16 +10,36 @@
     "effective_date": null,
     "status": "in_force",
     "summary": "คู่มือทางการ 281 หน้า จัดทำโดยกองสวัสดิการรักษาพยาบาล กรมบัญชีกลาง ปีงบประมาณ พ.ศ. 2567 (ฉบับปรับปรุงครั้งที่ 1) สำหรับนายทะเบียนสวัสดิการรักษาพยาบาลใช้งานระบบทะเบียนประวัติภายใต้ระบบ Digital Pension (เริ่มใช้ 1 กุมภาพันธ์ 2565) มีคำนิยาม/แบบฟอร์ม/คำถามที่พบบ่อย ครอบคลุมประเด็นสำคัญที่ยืนยันตรงกับสไลด์ที่เคยได้รับมาก่อนหน้า (doc-circular-medical-benefit-islamic-marriage-0001) แบบคำต่อคำ: **'การจดทะเบียนสมรสตามหลักศาสนาอิสลาม' หมายถึง ผู้มีสิทธิชายที่นับถือศาสนาอิสลามและมีภูมิลำเนาอยู่ใน 4 จังหวัดชายแดนภาคใต้ (นราธิวาส ยะลา ปัตตานี สตูล) มีสิทธิเบิกเงินสวัสดิการรักษาพยาบาลข้าราชการให้คู่สมรสได้ไม่เกิน 4 คน โดยคู่สมรสลำดับที่ 2-4 ต้องจดทะเบียนสมรสตามหลักศาสนาอิสลามใน 4 จังหวัดนี้เท่านั้น** อ้างอิง พ.ร.บ.ว่าด้วยการใช้กฎหมายอิสลามในเขตจังหวัดปัตตานี นราธิวาส ยะลา และสตูล พ.ศ. 2489 (`doc-law-islamic-law-4-provinces-2489-0001` ในระบบนี้ — ตรงกันทุกตัวอักษรกับต้นฉบับที่เรามีอยู่แล้ว) ซึ่งใช้บังคับแทนประมวลกฎหมายแพ่งฯ บรรพ 5-6 มี**คำถาม-คำตอบข้อ 3.11 เพิ่มเติมยืนยันชัดเจนกว่าสไลด์เดิม**: กรณีจดทะเบียนสมรสตาม พ.ร.บ.2489 เบิกค่ารักษาพยาบาลให้คู่สมรสได้ 4 คน **และบุตรได้ 3 คน** (เรียงตามลำดับเกิดก่อนหลัง ทุกคนต้องเป็นบุตรที่ชอบด้วยกฎหมาย) — ข้อมูลเรื่องบุตรนี้เป็นข้อมูลใหม่ที่ไม่มีในสไลด์เดิม ภาคผนวก 9 (หน้า 94) มีตัวบทเต็มของ พ.ร.บ.2489 แนบมาด้วย เอกสารนี้**ยืนยันความถูกต้องของ doc-circular-medical-benefit-islamic-marriage-0001** ที่เคยติดป้าย unverified ไว้ก่อนหน้า",
-    "scope_provinces": ["ปัตตานี", "นราธิวาส", "ยะลา", "สตูล"],
-    "keywords": ["นายทะเบียนสวัสดิการ", "Digital Pension", "คู่สมรสตามหลักศาสนาอิสลาม", "กรมบัญชีกลาง", "สวัสดิการรักษาพยาบาล"],
-    "related_document_ids": ["doc-law-islamic-law-4-provinces-2489-0001", "doc-circular-medical-benefit-islamic-marriage-0001"]
+    "scope_provinces": [
+      "ปัตตานี",
+      "นราธิวาส",
+      "ยะลา",
+      "สตูล"
+    ],
+    "keywords": [
+      "นายทะเบียนสวัสดิการ",
+      "Digital Pension",
+      "คู่สมรสตามหลักศาสนาอิสลาม",
+      "กรมบัญชีกลาง",
+      "สวัสดิการรักษาพยาบาล"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-law-4-provinces-2489-0001",
+      "doc-circular-medical-benefit-islamic-marriage-0001"
+    ]
   },
   "en": {
     "title": "Medical Welfare Registrar Manual Version II (1st Revision)",
     "title_alt": [],
     "issuing_body": "Comptroller General's Department, Medical Welfare Division",
     "summary": "An official 281-page manual produced by the Comptroller General's Department's Medical Welfare Division, fiscal year 2024 (1st revision), for medical-welfare registrars using the personnel-record system under the Digital Pension system (launched 1 February 2022). Contains definitions, forms, and an FAQ section, and confirms verbatim what a previously received slide stated (doc-circular-medical-benefit-islamic-marriage-0001): **'Islamic marriage registration' means a male beneficiary who is Muslim and domiciled in the 4 southern border provinces (Narathiwat, Yala, Pattani, Satun) may claim the civil-servant medical benefit for up to 4 spouses, with spouses 2-4 required to register under Islamic marriage principles specifically within these 4 provinces**, citing the Act on the Application of Islamic Law in Pattani, Narathiwat, Yala and Satun Provinces B.E. 2489 (doc-law-islamic-law-4-provinces-2489-0001 in this archive - matches character-for-character), which applies in place of Civil and Commercial Code Books 5-6. **Q&A item 3.11 adds a further confirmation not in the original slide**: for a marriage registered under the 1946 Act, the benefit covers 4 spouses **and 3 children** (ranked by birth order, all must be legitimate children). Appendix 9 (p.94) attaches the full text of the 1946 Act. This document **confirms the accuracy of doc-circular-medical-benefit-islamic-marriage-0001**, previously flagged unverified.",
-    "keywords": ["welfare registrar", "Digital Pension", "Islamic marriage registration", "Comptroller General's Department", "medical benefit"],
+    "keywords": [
+      "welfare registrar",
+      "Digital Pension",
+      "Islamic marriage registration",
+      "Comptroller General's Department",
+      "medical benefit"
+    ],
     "translation_status": "machine",
     "translated_at": "2026-08-22T01:30:00+07:00",
     "translated_by": "claude_code"
@@ -37,8 +57,8 @@
     "extracted_by": "claude_code",
     "extracted_at": "2026-08-22T01:30:00+07:00",
     "extraction_method": "pdf-text",
-    "verified": false,
-    "verified_by": null,
-    "verified_at": null
+    "verified": true,
+    "verified_by": "ตรวจสอบข้ามเอกสาร (cross-check) กับ doc-law-islamic-law-4-provinces-2489-0001 (ตรงกันทุกตัวอักษร) และยืนยัน doc-circular-medical-benefit-islamic-marriage-0001 คำต่อคำ",
+    "verified_at": "2026-08-22T06:00:00+07:00"
   }
 }
