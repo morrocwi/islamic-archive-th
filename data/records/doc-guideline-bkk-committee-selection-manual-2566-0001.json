@@ -1,0 +1,53 @@
+{
+  "id": "doc-guideline-bkk-committee-selection-manual-2566-0001",
+  "th": {
+    "title": "คู่มือการคัดเลือกอิหม่าม คอเต็บ บิหลั่น และกรรมการอิสลามประจำมัสยิด (สำนักงานคณะกรรมการอิสลามประจำกรุงเทพมหานคร)",
+    "title_alt": [],
+    "category": "guideline",
+    "issuing_body": "สำนักงานคณะกรรมการอิสลามประจำกรุงเทพมหานคร",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "คู่มือ 132 หน้า จัดพิมพ์โดยสำนักงานคณะกรรมการอิสลามประจำกรุงเทพมหานคร ปีที่พิมพ์ 2566 จำนวน 2,000 เล่ม (อนุญาตให้เผยแพร่โดยต้องอ้างอิงแหล่งที่มา) มีคำนิยมจากประธานกรรมการอิสลามประจำกรุงเทพมหานคร อธิบายขั้นตอนปฏิบัติจริงในการคัดเลือกอิหม่าม คอเต็บ บิหลั่น และกรรมการอิสลามประจำมัสยิดในพื้นที่กรุงเทพมหานคร ประกอบระเบียบ กอท. ว่าด้วยการคัดเลือกฯ พ.ศ. 2559 (แก้ไขฉบับที่ 2 พ.ศ. 2561) — ยังไม่ได้อ่านเนื้อหาละเอียดทั้ง 132 หน้า (อ่านเฉพาะหน้าปก/คำนำ) รอการอ่านเพิ่มเติมเพื่อสรุปเนื้อหาแต่ละบทให้ครบก่อน mark เป็น verified",
+    "scope_provinces": [],
+    "keywords": [
+      "คู่มือคัดเลือกกรรมการมัสยิด",
+      "กรุงเทพมหานคร"
+    ],
+    "related_document_ids": [
+      "doc-regulation-cicot-mosque-committee-selection-2559-0001",
+      "doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001"
+    ]
+  },
+  "en": {
+    "title": "Manual for Selecting Imam, Khatib, Bilal and Mosque Islamic Committee Members (Office of the Bangkok Islamic Committee)",
+    "title_alt": [],
+    "issuing_body": "Office of the Bangkok Islamic Committee",
+    "summary": "A 132-page manual published by the Office of the Bangkok Islamic Committee in 2023 (2,000 copies, free to redistribute with attribution), with a foreword from the Bangkok Islamic Committee chair. Explains the practical procedure for selecting the Imam, Khatib, Bilal, and mosque Islamic committee in Bangkok, complementing the CICOT selection regulation B.E. 2559 (amended No.2 B.E.2561). Only the cover/foreword has been read so far — the full 132 pages have not yet been reviewed chapter by chapter; do not mark this record verified until that is done.",
+    "keywords": [
+      "committee selection manual",
+      "Bangkok"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/bkk-committee-manual/2566-khumue-select-imam-khatib-bilal-bkk.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": "2023-01-01",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "หน้าปก + คำนำ + คำนิยม เท่านั้น (จาก 132 หน้า)",
+    "checksum_sha256": "2abb50e73cdb94ced9e82dd434809a0616c1a44aeef7f52b83117e3a9a8f277d"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

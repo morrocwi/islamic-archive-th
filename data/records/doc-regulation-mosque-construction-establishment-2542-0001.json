@@ -1,0 +1,56 @@
+{
+  "id": "doc-regulation-mosque-construction-establishment-2542-0001",
+  "th": {
+    "title": "กฎกระทรวง ฉบับที่ 2 (พ.ศ. 2542) ออกตามความในพระราชบัญญัติการบริหารองค์กรศาสนาอิสลาม พ.ศ. 2540",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "กระทรวงมหาดไทย",
+    "document_no": "ฉบับที่ 2 (พ.ศ. 2542)",
+    "enacted_date_be": "3 พฤศจิกายน 2542",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "กฎกระทรวงตัวจริง (สแกนจากราชกิจจานุเบกษา เล่ม 116 ตอนที่ 107 ก, 4 พฤศจิกายน 2542) อาศัยอำนาจมาตรา 5 และ 12 พ.ร.บ.2540 ออกโดยรัฐมนตรีว่าการกระทรวงมหาดไทย (ลงนามโดยนายชำนิ ศักดิเศรษฐ์ รัฐมนตรีช่วยว่าการฯ รักษาราชการแทน) วางหลักเกณฑ์และวิธีการ หมวด 1 การสร้างและจัดตั้งมัสยิด (ยื่นคำขอรับความเห็นชอบต่อคณะกรรมการอิสลามประจำจังหวัดตามแบบ บอ.1 พร้อมแผนผังที่ดิน/แผนที่ตั้ง) และครอบคลุมถึงการย้าย การรวม และการเลิกมัสยิด (การเลิกใช้แบบ บอ.6/บอ.7 ยื่นต่อพนักงานเจ้าหน้าที่ ประกาศในราชกิจจานุเบกษา) — นี่คือ Tier 2 'กฎกระทรวง ฉบับที่ 2 (พ.ศ. 2542): หลักเกณฑ์และวิธีการเกี่ยวกับการสร้าง การจัดตั้ง การย้าย การรวม และการเลิกมัสยิด' ที่ระบุไว้ก่อนหน้าใน DOCUMENT_MAP.md — ยืนยันแล้วว่ามีอยู่จริง",
+    "scope_provinces": [],
+    "keywords": [
+      "กฎกระทรวง",
+      "สร้างมัสยิด",
+      "จัดตั้งมัสยิด",
+      "เลิกมัสยิด"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001"
+    ]
+  },
+  "en": {
+    "title": "Ministerial Regulation No. 2 (B.E. 2542) Issued under the Islamic Organization Administration Act B.E. 2540",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "A genuine Ministerial Regulation (scanned from the Royal Thai Government Gazette, Book 116, Part 107 Kor, 4 November 1999), issued by the Minister of Interior (signed by Mr. Chamni Sakdiset, Deputy Minister acting for the Minister) under Sections 5 and 12 of the 2540 Act. Chapter 1 sets criteria and procedure for constructing and establishing a mosque (application to the provincial Islamic committee on form Bor-Or.1 with a land-use plan/site map), and covers relocating, merging, and dissolving a mosque (dissolution uses forms Bor-Or.6/Bor-Or.7 filed with the competent official and published in the Gazette). This confirms and fulfils the Tier 2 'Ministerial Regulation No.2 (1999) on mosque construction/establishment/relocation/merger/dissolution' item previously listed as pending in DOCUMENT_MAP.md.",
+    "keywords": [
+      "ministerial regulation",
+      "mosque construction",
+      "mosque establishment",
+      "mosque dissolution"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/2542-kotkrasuang-chabab2-mosque-construction.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": "1999-11-04",
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (4 หน้า, ราชกิจจานุเบกษา เล่ม 116 ตอนที่ 107 ก)",
+    "checksum_sha256": "69a7852d0ce27b77e7e060dce3f3f8e8859a8253c4f849c5e6b83b7b638eada3"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

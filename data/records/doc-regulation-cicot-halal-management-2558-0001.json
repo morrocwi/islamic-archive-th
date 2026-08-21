@@ -1,0 +1,54 @@
+{
+  "id": "doc-regulation-cicot-halal-management-2558-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยการบริหารกิจการฮาลาล พ.ศ. 2558",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": null,
+    "effective_date": null,
+    "status": "amended",
+    "summary": "อาศัยอำนาจมาตรา 18(5)(9) พ.ร.บ.2540 ยกเลิกระเบียบฉบับ พ.ศ. 2552 วางหลักเกณฑ์การตรวจสอบ/รับรองมาตรฐานผลิตภัณฑ์ฮาลาลและการใช้เครื่องหมายรับรองฮาลาลของ กอท. ไฟล์ต้นฉบับภาษาไทยเป็นสำเนาสแกน (อ่านหน้า 1 ด้วยสายตาได้ชัดเจน แต่การสกัดข้อความอัตโนมัติ (pdftotext) ให้ผลลัพธ์ผิดเพี้ยน/อ่านไม่ได้ทั้งฉบับ ยังต้องอ่านเพิ่มเติมทีละหน้าจึงจะยืนยันเนื้อหาครบ) มีฉบับแปลอังกฤษทางการคู่กัน (เอกสารต้นทาง Word, ข้อความสะอาด) จึงตั้ง translation_status ของ en เป็น 'reviewed' แทน 'machine' — สถานะ 'amended' เนื่องจากคณะกรรมการกลางอิสลามแห่งประเทศไทยมีมติเมื่อ 26 สิงหาคม 2568 รับรองชุดระเบียบ/ข้อบังคับ/ข้อกำหนดฮาลาลใหม่ พ.ศ. 2568 ในเรื่องเดียวกัน (ดู doc-regulation-cicot-halal-compilation-2568-0001) แต่ยังไม่พบข้อความยกเลิกที่ชัดเจนในเอกสาร 2568 จึงทำเครื่องหมาย amended ไม่ใช่ repealed อย่างเด็ดขาด",
+    "scope_provinces": [],
+    "keywords": [
+      "ฮาลาล",
+      "มาตรฐานฮาลาล",
+      "เครื่องหมายฮาลาล"
+    ],
+    "related_document_ids": [
+      "doc-regulation-cicot-halal-compilation-2568-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on the Management of Halal Affairs B.E. 2558 (2015)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "Issued under Section 18(5)(9) of the 2540 Act, repealing the B.E. 2552 version; sets criteria for inspecting/certifying halal product standards and use of CICOT's halal mark. The Thai original is a scanned copy — page 1 is clearly legible on visual inspection, but automated text extraction (pdftotext) produced garbled/unusable output for the full document; further page-by-page reading is still needed to fully confirm the content. A clean, official English counterpart exists (a native Word document), so this record's en.translation_status is set to 'reviewed' rather than 'machine'. Status is 'amended' because CICOT resolved on 26 August 2025 to adopt a new set of B.E. 2568 halal regulations/by-laws/requirements on the same subject (see doc-regulation-cicot-halal-compilation-2568-0001), but no explicit repeal clause for this 2558 regulation has been located yet, so it is marked 'amended' rather than definitively 'repealed'.",
+    "keywords": [
+      "halal",
+      "halal standard",
+      "halal mark"
+    ],
+    "translation_status": "reviewed",
+    "translated_at": null,
+    "translated_by": null
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-halal/2558-rabiab-halal-management-th.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "หน้า 1 อ่านด้วยสายตา (ไฟล์สแกน 22 หน้า ยังไม่ครบ)",
+    "checksum_sha256": "ff34e5c03cae0c5556494c4ecdc2c0694e059103638dfec1c44cf529fea9b505"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

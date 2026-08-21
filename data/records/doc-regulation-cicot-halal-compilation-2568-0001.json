@@ -1,0 +1,54 @@
+{
+  "id": "doc-regulation-cicot-halal-compilation-2568-0001",
+  "th": {
+    "title": "คู่มือการรับรองมาตรฐานฮาลาล คณะกรรมการกลางอิสลามแห่งประเทศไทย (รวมระเบียบ/ข้อบังคับ/ข้อกำหนด พ.ศ. 2568)",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": "26 สิงหาคม 2568 (มติที่ประชุมรับรอง)",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "หนังสือรวมเล่ม 137 หน้า จัดทำโดยฝ่ายกิจการฮาลาล กอท. รวบรวม 5 ฉบับที่ประชุม กอท. มีมติรับรองเมื่อ 26 สิงหาคม 2568: (1) ระเบียบ กอท. ว่าด้วยการบริหารกิจการฮาลาล พ.ศ. 2568, (2) ข้อบังคับ กอท. ว่าด้วยการดำเนินการตรวจรับรองสถานประกอบการ การตรวจผลิตภัณฑ์และค่าธรรมเนียม พ.ศ. 2568, (3) ข้อกำหนดการตรวจรับรองกระบวนการผลิตผลิตภัณฑ์ฮาลาล พ.ศ. 2568, (4) ข้อกำหนดแนวทางปฏิบัติการขอใช้เครื่องหมายรับรองฮาลาลและการใช้เครื่องหมายรับรองฮาลาลบนผลิตภัณฑ์และบรรจุภัณฑ์ พ.ศ. 2568, (5) ข้อกำหนดการตรวจรับรองฮาลาลโรงเชือดสัตว์และการชำแหละชิ้นส่วน พ.ศ. 2568 — ทั้ง 5 ฉบับยังไม่ถูกแยกเป็นเรคคอร์ดย่อยตาม page range ในระบบนี้ (งานค้าง ดู docs/DOCUMENT_MAP.md) เก็บเป็นเรคคอร์ดเดียวไปก่อนเพื่อไม่ให้ข้อมูลตกหล่น",
+    "scope_provinces": [],
+    "keywords": [
+      "ฮาลาล",
+      "มาตรฐานฮาลาล",
+      "คู่มือรับรอง"
+    ],
+    "related_document_ids": [
+      "doc-regulation-cicot-halal-management-2558-0001"
+    ]
+  },
+  "en": {
+    "title": "Halal Standard Certification Manual of the Central Islamic Council of Thailand (Compiling B.E. 2568 Regulations/By-laws/Requirements)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "A 137-page compilation produced by CICOT's Halal Affairs Division, gathering 5 instruments CICOT resolved to adopt on 26 August 2025: (1) Regulation on the Administration of Halal Affairs B.E. 2568, (2) By-law on Inspection/Certification of Establishments, Product Testing, and Fees B.E. 2568, (3) Requirements for Certifying Halal Product Manufacturing Processes B.E. 2568, (4) Requirements for Applying for and Using the Halal Certification Mark on Products and Packaging B.E. 2568, (5) Requirements for Halal Certification of Slaughterhouses and Meat Cutting B.E. 2568. These 5 instruments have not yet been split into separate page-range records in this archive (a known gap — see docs/DOCUMENT_MAP.md); kept as one combined record for now so the content isn't lost.",
+    "keywords": [
+      "halal",
+      "halal standard",
+      "certification manual"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-halal/2568-khumue-halal-standard-compilation.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "คำนำ + สารบัญ อ่านแล้ว (จาก 137 หน้า — ยังไม่แยกเนื้อหารายฉบับ)",
+    "checksum_sha256": "a2753b7aed5f3e8d181e8c97d065dc78c67ec2860b72c7084f6a7a53e13dc30f"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "manual",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

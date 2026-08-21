@@ -1,0 +1,57 @@
+{
+  "id": "doc-regulation-cicot-imam-khatib-bilal-removal-2542-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยการพ้นจากตำแหน่งของอิหม่าม คอเต็บ และบิหลั่น พ.ศ. 2542",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": "9 พฤศจิกายน 2542 (แก้ไขเพิ่มเติมฉบับที่ 2 พ.ศ. 2560 บางข้อ)",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "7 ข้อ ยกเลิกระเบียบการแต่งตั้ง/ถอดถอนกรรมการอิสลามประจำมัสยิด(สุเหร่า) พ.ศ. 2534 กำหนดเหตุพ้นจากตำแหน่งของอิหม่าม คอเต็บ บิหลั่น 8 กรณี (ตาย/ลาออก/ขาดคุณสมบัติ/สัปปุรุษเกินกึ่งหนึ่งร้องขอ/ประพฤติเสื่อมเสีย/ขาดปฏิบัติหน้าที่ติดต่อกันไม่น้อยกว่า 6 เดือนหรือไม่น้อยกว่า 1 ปี/มัสยิดถูกรวม-เลิก) มีสิทธิยื่นคำร้องคัดค้านต่อ กอท. ภายใน 30 วัน (ข้อ7) ข้อ (2)(4)(8) และย่อหน้าสุดท้ายของข้อ 7 ถูกแก้ไขเพิ่มเติมโดยฉบับที่ 2 พ.ศ. 2560 ลงนามโดยนายสุวิทย์ อนันต์นับ เลขาธิการ กอท. (ไม่ใช่ประธาน)",
+    "scope_provinces": [],
+    "keywords": [
+      "อิหม่าม",
+      "คอเต็บ",
+      "บิหลั่น",
+      "พ้นจากตำแหน่ง"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001",
+      "doc-regulation-cicot-islamic-committee-removal-procedure-2560-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on the Removal from Office of Imam, Khatib and Bilal B.E. 2542 (1999)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "7 articles, repealing the 1991 regulation on appointment/removal of mosque Islamic committee members. Sets 8 grounds for removing an Imam, Khatib, or Bilal (death, resignation, disqualification, petition by over half the congregants, misconduct, failure to perform duties for at least 6 months or at least 1 year, or the mosque being merged/dissolved). The removed officeholder may appeal to CICOT within 30 days (Art.7). Items (2), (4), (8) and the last paragraph of Art.7 were amended by No.2 B.E. 2560. Signed by Mr. Suwit Anantanap, Secretary-General of CICOT (not the Chairman).",
+    "keywords": [
+      "imam",
+      "khatib",
+      "bilal",
+      "removal from office"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-regulations/2542-rabiab-imam-khatib-bilal-removal.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (7 ข้อ, 2 หน้า)",
+    "checksum_sha256": "f5c16a2f15fc11a154c2809553b459e56cd5c2bd187cf4d91923d81fca4d3dd1"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

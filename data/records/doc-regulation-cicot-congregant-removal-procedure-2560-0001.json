@@ -1,0 +1,54 @@
+{
+  "id": "doc-regulation-cicot-congregant-removal-procedure-2560-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยวิธีพิจารณาการจำหน่ายชื่อสัปปุรุษประจำมัสยิด พ.ศ. 2560",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": "16 พฤษภาคม 2560",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "20 ข้อ ยกเลิกระเบียบฉบับ พ.ศ. 2552 วางกระบวนการยื่นคำร้อง/คำคัดค้าน กรณีขอให้จำหน่ายชื่อสัปปุรุษออกจากทะเบียนตามมาตรา 35(9) พ.ร.บ.2540: ยื่นคำร้องด้วยตนเองต่อคณะกรรมการอิสลามประจำมัสยิด (ข้อ 6), สอบสวนบันทึกลายลักษณ์อักษร (ข้อ 8), คณะกรรมการอิสลามประจำมัสยิดวินิจฉัยมีคำสั่ง (ข้อ 13), ผู้ถูกร้องอุทธรณ์ต่อคณะกรรมการอิสลามประจำจังหวัดได้ภายใน 30 วัน คำวินิจฉัยจังหวัดเป็นที่สุด (ข้อ 15-19)",
+    "scope_provinces": [],
+    "keywords": [
+      "สัปปุรุษ",
+      "จำหน่ายชื่อ",
+      "คำร้อง"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on the Procedure for Removing a Name from the Mosque Congregant Registry B.E. 2560 (2017)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "20 articles, repealing the B.E. 2552 version. Sets out the petition/objection process for removing a congregant's name from the registry under Section 35(9) of the 2540 Act: the petition is filed in person with the mosque Islamic committee (Art.6), investigation is recorded in writing (Art.8), the mosque committee issues a ruling (Art.13), and the affected party may appeal to the provincial Islamic committee within 30 days, whose decision is final (Art.15-19).",
+    "keywords": [
+      "congregant",
+      "registry removal",
+      "petition"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-regulations/2560-rabiab-congregant-removal-procedure.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (20 ข้อ, 4 หน้า)",
+    "checksum_sha256": "ea88f797eb371fdf0600235691c93ff6973e01667cb7201a6f1bcc8bde6b6c4e"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

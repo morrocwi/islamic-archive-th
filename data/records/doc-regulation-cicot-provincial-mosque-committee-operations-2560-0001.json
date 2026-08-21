@@ -1,0 +1,55 @@
+{
+  "id": "doc-regulation-cicot-provincial-mosque-committee-operations-2560-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยวิธีการดำเนินงานและควบคุมดูแลการบริหารงานของคณะกรรมการอิสลามประจำจังหวัดและคณะกรรมการอิสลามประจำมัสยิด พ.ศ. 2560",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": "17 พฤศจิกายน 2560 (มติที่ประชุมครั้งที่ 10/2560)",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "35 ข้อ (อย่างน้อย, อ้างอิงจากหมวด 8 ท้ายฉบับ) ยกเลิกระเบียบฉบับ พ.ศ. 2542 ให้ใช้บังคับตั้งแต่ 15 ธันวาคม 2560 ครอบคลุมการรับมุสลิมเข้าเป็นสัปปุรุษ+ทะเบียนสัปปุรุษ (ข้อ 28-33) และหมวด 8 ทรัพย์สินของมัสยิด กำหนดให้จัดทำรายงานผลการดำเนินงาน ฐานะการเงิน และบัญชีทรัพย์สินขึ้น 2 ชุด (มัสยิดเก็บ 1 ชุด ส่ง กอจ. 1 ชุด) และให้ กอจ.+กอท. กำกับดูแลตรวจตราเอกสารการเงิน/ทรัพย์สิน (ข้อ34-35) — เป็นระเบียบแม่บทที่กำหนดแบบฟอร์ม กอม.1/กอม.2 ที่ระเบียบฉบับที่ 2 พ.ศ.2561 ว่าด้วยการคัดเลือกกรรมการอ้างถึง",
+    "scope_provinces": [],
+    "keywords": [
+      "บริหารงานมัสยิด",
+      "ทะเบียนสัปปุรุษ",
+      "ทรัพย์สินมัสยิด"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001",
+      "doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on Operating Procedures and Oversight of Provincial and Mosque Islamic Committees B.E. 2560 (2017)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "At least 35 articles (per the final Chapter 8), repealing the B.E. 2542 version, effective 15 December 2017. Covers admitting Muslims as registered congregants and the congregant registry (Art.28-33), and Chapter 8 on mosque assets, requiring two copies of the operations/financial/asset report (one kept at the mosque, one sent to the provincial committee), with the provincial committee and CICOT overseeing the financial/asset records (Art.34-35). This is the parent regulation that defines the Kor-Or-Mor.1/Kor-Or-Mor.2 forms referenced by the No.2 B.E.2561 committee-selection regulation.",
+    "keywords": [
+      "mosque administration",
+      "congregant registry",
+      "mosque assets"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-regulations/2560-rabiab-provincial-mosque-committee-operations.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "หน้า 1 และหน้า 4-5 อ่านแล้ว (หน้า 2-3 ยังไม่ได้อ่านเต็ม เนื้อหาน่าจะเป็นหมวด 2-7 ว่าด้วยการประชุม/องค์ประชุม/มติ ของคณะกรรมการอิสลามประจำจังหวัดและมัสยิด — ต้องอ่านเพิ่มเพื่อ verify)",
+    "checksum_sha256": "07758250ef6b1b1b8bbcd05bd78e01ea9ee956c51caa879707a56e6b8ad88686"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

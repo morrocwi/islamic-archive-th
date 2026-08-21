@@ -1,0 +1,54 @@
+{
+  "id": "doc-regulation-cicot-nikah-under-17-2561-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยการสมรส (นิกาห์) บุคคลที่มีอายุต่ำกว่า 17 ปี พ.ศ. 2561",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": "29 พฤศจิกายน 2561",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "10 ข้อ ออกเพื่อให้การสมรส (นิกาห์) บุคคลอายุต่ำกว่า 17 ปีสอดคล้องกับกฎหมายบ้านเมืองและเพื่อให้สตรีเข้าถึงความยุติธรรมมากขึ้น กำหนดว่าปกติต้องมีอายุไม่ต่ำกว่า 17 ปีจึงจะออกใบรับรองการสมรสได้ (ข้อ6) กรณีจำเป็นคณะกรรมการอาจทำการสมรสให้บุคคลอายุต่ำกว่า 17 ปีได้โดยไม่ออกหนังสือรับรอง หากคณะอนุกรรมการพิจารณาสิทธิประโยชน์ตามบัญญัติอิสลามเห็นชอบ (ข้อ7) ต้องมีหนังสืออนุญาตจากศาล/ดาโต๊ะยุติธรรม หรือหนังสือยินยอมจากผู้ปกครองบันทึกไว้ที่สำนักงาน กอจ. ก่อน (ข้อ8) ตั้งคณะอนุกรรมการ 'พิจารณาสิทธิประโยชน์ตามบัญญัติอิสลาม' อย่างน้อย 3 คน มีสตรีอย่างน้อย 1 คน (ข้อ9)",
+    "scope_provinces": [],
+    "keywords": [
+      "นิกาห์",
+      "อายุต่ำกว่า17ปี",
+      "สิทธิสตรี"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on the Marriage (Nikah) of Persons Under 17 Years of Age B.E. 2561 (2018)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "10 articles, issued to align the marriage (nikah) of persons under 17 with Thai civil law and to improve women's access to justice within the religious organization. Normally a marriage certificate requires both parties to be at least 17 (Art.6). Where necessary, the committee may conduct such a marriage without issuing a certificate, subject to approval by the 'Sub-committee on Considering Benefits under Islamic Law' (Art.7), and requires prior court/Dato Yuttitham authorization or a guardian's recorded consent at the provincial committee office (Art.8). Establishes that sub-committee, at least 3 members with at least 1 woman (Art.9).",
+    "keywords": [
+      "nikah",
+      "marriage under 17",
+      "women's rights"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-regulations/2561-rabiab-nikah-under-17.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (10 ข้อ, 2 หน้า)",
+    "checksum_sha256": "52fd4077ff7af4972ab0c73d01a23ed6ee498bb03cf975506507a2f847ba8d0d"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

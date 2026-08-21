@@ -1,0 +1,54 @@
+{
+  "id": "doc-regulation-cicot-asset-management-2560-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยการจัดการทรัพย์สินและการจัดหาผลประโยชน์ของสำนักงานคณะกรรมการอิสลามประจำจังหวัดและมัสยิด พ.ศ. 2560",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": null,
+    "enacted_date_be": "17 พฤศจิกายน 2560 (มติที่ประชุมครั้งที่ 10/2560)",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "15 ข้อ ให้ใช้บังคับตั้งแต่ 15 ธันวาคม 2560 ยกเลิกระเบียบฉบับ พ.ศ. 2542 กำหนดให้สำนักงาน (สนง.กอจ./มัสยิด) จัดการทรัพย์สินให้เกิดประโยชน์สูงสุดตามบัญญัติอิสลามและกฎหมาย (หมวด 1), การทำนิติกรรมแทนสำนักงานต้องมีมติคณะกรรมการมอบหมายเป็นลายลักษณ์อักษรและห้ามกรรมการผู้ทำการแทนมีส่วนได้เสีย (หมวด 2) สัญญาเช่าทรัพย์สินต้องเป็นหนังสือมีหลักประกัน (เงินสด/เช็ค/หนังสือค้ำประกันธนาคาร/พันธบัตรรัฐบาล) นี่คือแหล่งอ้างอิงของ Tier 3 'ระเบียบ กอท. ว่าด้วยการจัดการทรัพย์สินและที่ดินวากัฟ' ที่ระบุไว้ก่อนหน้าใน DOCUMENT_MAP.md",
+    "scope_provinces": [],
+    "keywords": [
+      "ทรัพย์สินมัสยิด",
+      "นิติกรรม",
+      "สัญญาเช่า"
+    ],
+    "related_document_ids": [
+      "doc-law-islamic-org-admin-act-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on Asset Management and Benefit Procurement for Provincial Islamic Committee Offices and Mosques B.E. 2560 (2017)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "15 articles, effective 15 December 2017, repealing the B.E. 2542 version. Requires provincial/mosque offices to manage assets for maximum benefit under Islamic principles and law (Chapter 1); acting on behalf of the office in legal transactions requires a written committee mandate, and the acting committee member(s) must have no conflict of interest (Chapter 2); lease contracts must be in writing with security (cash, cheque, bank guarantee, or government bond). This is the source for the Tier 3 'CICOT asset/waqf regulation' previously listed as pending in DOCUMENT_MAP.md.",
+    "keywords": [
+      "mosque assets",
+      "legal transactions",
+      "lease contract"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-regulations/2560-rabiab-asset-management.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (15 ข้อ, 2 หน้า)",
+    "checksum_sha256": "475a4c93fb2122637161f12269372a6762403399795ee4a4b90b0974ce40d7fc"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}

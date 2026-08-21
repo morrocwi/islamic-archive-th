@@ -1,0 +1,54 @@
+{
+  "id": "doc-regulation-cicot-mosque-committee-selection-amend2-2561-0001",
+  "th": {
+    "title": "ระเบียบคณะกรรมการกลางอิสลามแห่งประเทศไทย ว่าด้วยการคัดเลือกและแต่งตั้งกรรมการอิสลามประจำมัสยิด (ฉบับที่ 2) พ.ศ. 2561",
+    "title_alt": [],
+    "category": "regulation",
+    "issuing_body": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "document_no": "ฉบับที่ 2",
+    "enacted_date_be": "21 เมษายน 2561 (มติที่ประชุมครั้งที่ 4/2561)",
+    "effective_date": null,
+    "status": "in_force",
+    "summary": "แก้ไขเพิ่มเติมระเบียบ พ.ศ. 2559 (doc-regulation-cicot-mosque-committee-selection-2559-0001) หลายข้อ ให้ใช้บังคับตั้งแต่ 23 เมษายน 2561: กำหนดวันคัดเลือก+แจ้งสัปปุรุษล่วงหน้าไม่น้อยกว่า 45 วัน (ข้อ 3), จัดทำบัญชีผู้มีสิทธิคัดเลือกตามแบบ กอม.2 (ข้อ 4), สีบัตรลงคะแนนแยกตามตำแหน่ง (เขียว=อิหม่าม ชมพู=คอเต็บ เหลือง=บิหลั่น ขาว=กรรมการอื่น) (ข้อ 6), วิธีจับสลากกรณีผู้สมัครเกิน/คะแนนเท่ากัน (ข้อ 7-10) ลงนามโดยนายอาศิส พิทักษ์คุมพล ประธานกรรมการกลางอิสลามแห่งประเทศไทย",
+    "scope_provinces": [],
+    "keywords": [
+      "คัดเลือกกรรมการมัสยิด",
+      "บัตรลงคะแนน",
+      "แก้ไขเพิ่มเติม"
+    ],
+    "related_document_ids": [
+      "doc-regulation-cicot-mosque-committee-selection-2559-0001"
+    ]
+  },
+  "en": {
+    "title": "Regulation of the Central Islamic Council of Thailand on the Selection and Appointment of Mosque Islamic Committee Members (No. 2) B.E. 2561 (2018)",
+    "title_alt": [],
+    "issuing_body": "Central Islamic Council of Thailand (CICOT)",
+    "summary": "Amends the B.E. 2559 regulation (doc-regulation-cicot-mosque-committee-selection-2559-0001) on several points, effective 23 April 2018: requires at least 45 days' advance notice of the election date to congregants (Art.3), a voter roll on form Kor-Or-Mor.2 (Art.4), color-coded ballots by position (green=Imam, pink=Khatib, yellow=Bilal, white=other committee members) (Art.6), and lottery procedures for over-subscribed positions or tied votes (Art.7-10). Signed by Mr. Arsa Pitakkumpol, Chairman of CICOT.",
+    "keywords": [
+      "mosque committee selection",
+      "ballot color",
+      "amendment"
+    ],
+    "translation_status": "machine",
+    "translated_at": "2026-08-21T17:30:00+07:00",
+    "translated_by": "claude_code"
+  },
+  "source": {
+    "document_pdf": "sources/originals/cicot-regulations/2561-rabiab-select-mosque-committee-amend2.pdf",
+    "document_url": null,
+    "publisher": "คณะกรรมการกลางอิสลามแห่งประเทศไทย (กอท.)",
+    "published_date": null,
+    "retrieved_date": "2026-08-21",
+    "page_ref": "ทั้งฉบับ (10 ข้อ, 3 หน้า)",
+    "checksum_sha256": "85cc383d91d8a8125755daa44355ca2b5d41914ef6644d133c673f8f44c0755a"
+  },
+  "provenance": {
+    "extracted_by": "claude_code",
+    "extracted_at": "2026-08-21T17:30:00+07:00",
+    "extraction_method": "pdf-text",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null
+  }
+}
