@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/morrocwi/thai-mosque-governance-archive/schema/document.schema.json",
+  "title": "Mosque Administration Document (Thailand)",
+  "description": "Canonical record for one document about the administration/governance of mosques in Thailand — a law, ministerial regulation, provincial Islamic committee rule, administrative circular, or research/guideline paper. Thai fields (`th`) are the source of truth, entered first and verified against the source document. English fields (`en`) are a translation pair, never authored independently of `th`.",
+  "type": "object",
+  "required": ["id", "th", "source", "provenance"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable id, format: doc-<category>-<slug>-<seq4>, e.g. doc-law-islamic-org-admin-act-0001",
+      "pattern": "^doc-[a-z0-9-]+-[0-9]{4}$"
+    },
+    "th": {
+      "type": "object",
+      "description": "Canonical Thai record — authored/verified first, directly from the source document.",
+      "required": ["title", "category"],
+      "properties": {
+        "title": { "type": "string", "description": "ชื่อเอกสารทางการ (เช่น ชื่อเต็มของ พ.ร.บ./ระเบียบ/ประกาศ)" },
+        "title_alt": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "ชื่อเรียกอื่น/ชื่อย่อที่ใช้ทั่วไป"
+        },
+        "category": {
+          "type": "string",
+          "enum": ["law", "regulation", "circular", "guideline", "research", "other"],
+          "description": "law=พ.ร.บ./กฎหมายระดับพระราชบัญญัติ, regulation=กฎกระทรวง/ระเบียบ/ประกาศ, circular=หนังสือเวียน/คำสั่ง, guideline=แนวทางบริหาร/คู่มือ, research=งานวิจัย/บทความวิชาการ, other=อื่นๆ"
+        },
+        "issuing_body": { "type": ["string", "null"], "description": "หน่วยงานผู้ออกเอกสาร เช่น สำนักจุฬาราชมนตรี, กระทรวงมหาดไทย, คณะกรรมการอิสลามประจำจังหวัด" },
+        "document_no": { "type": ["string", "null"], "description": "เลขที่เอกสาร/เลขที่ประกาศ/เลขที่ระเบียบ ตามต้นฉบับ" },
+        "enacted_date_be": { "type": ["string", "null"], "description": "วันประกาศใช้ ตามปี พ.ศ. ในต้นฉบับ (เก็บตามที่ปรากฏ ไม่แปลงหน่วย)" },
+        "effective_date": { "type": ["string", "null"], "format": "date", "description": "วันมีผลบังคับใช้ (ISO date ถ้าคำนวณได้ชัดเจนจากต้นฉบับ)" },
+        "status": {
+          "type": "string",
+          "enum": ["in_force", "amended", "repealed", "draft", "unknown"],
+          "default": "unknown",
+          "description": "สถานะ ณ วันที่บันทึก — ต้องมีเอกสารอ้างอิงรองรับการเปลี่ยนสถานะเสมอ ห้ามเดา"
+        },
+        "summary": { "type": ["string", "null"], "description": "สรุปเนื้อหาโดยย่อ เขียนใหม่ ไม่ใช่คัดลอกทั้งฉบับ" },
+        "scope_provinces": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "จังหวัดที่เอกสารนี้มีผลบังคับ ถ้าเป็นระเบียบระดับจังหวัด; ว่างเปล่า = ใช้ทั่วประเทศ"
+        },
+        "keywords": { "type": "array", "items": { "type": "string" } },
+        "related_document_ids": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "id ของเอกสารอื่นในระบบนี้ที่เกี่ยวข้อง (เช่น กฎกระทรวงที่ออกตาม พ.ร.บ. ฉบับนี้)"
+        }
+      }
+    },
+    "en": {
+      "type": "object",
+      "description": "English translation pair. Must never be authored independently — always derived from `th` and flagged with translation_status.",
+      "properties": {
+        "title": { "type": "string" },
+        "title_alt": { "type": "array", "items": { "type": "string" } },
+        "issuing_body": { "type": ["string", "null"] },
+        "summary": { "type": ["string", "null"] },
+        "keywords": { "type": "array", "items": { "type": "string" } },
+        "translation_status": {
+          "type": "string",
+          "enum": ["missing", "machine", "reviewed", "verified"],
+          "description": "missing = no en block yet; machine = auto-translated, unreviewed; reviewed = a human read it against th; verified = a human fluent in both legal Thai and English confirmed fidelity."
+        },
+        "translated_at": { "type": ["string", "null"], "format": "date-time" },
+        "translated_by": { "type": ["string", "null"] }
+      }
+    },
+    "source": {
+      "type": "object",
+      "description": "Provenance of the original document. Every record must trace back to a retrievable PDF and/or URL — never a summary with no original attached.",
+      "required": ["retrieved_date"],
+      "properties": {
+        "document_pdf": {
+          "type": ["string", "null"],
+          "description": "Relative path under sources/pdf/ to the original PDF this record was extracted from."
+        },
+        "document_url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "Original source URL the PDF was retrieved from (ราชกิจจานุเบกษา, เว็บหน่วยงาน, ฯลฯ)."
+        },
+        "publisher": { "type": ["string", "null"], "description": "ผู้เผยแพร่/หน่วยงานเจ้าของเอกสาร" },
+        "published_date": { "type": ["string", "null"], "format": "date" },
+        "retrieved_date": { "type": "string", "format": "date" },
+        "page_ref": { "type": ["string", "null"], "description": "หน้า/มาตรา/ข้อ ที่ระบุถึงเนื้อหาที่สรุปในเรคคอร์ดนี้" },
+        "checksum_sha256": { "type": ["string", "null"], "description": "sha256 ของไฟล์ PDF ณ วันที่ดึงมา (กันไฟล์ต้นทางถูกแก้ภายหลังโดยไม่รู้ตัว)" }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["extraction_method", "verified"],
+      "properties": {
+        "extracted_by": { "type": ["string", "null"] },
+        "extracted_at": { "type": ["string", "null"], "format": "date-time" },
+        "extraction_method": {
+          "type": "string",
+          "enum": ["manual", "ocr", "pdf-text", "mixed"]
+        },
+        "verified": { "type": "boolean", "default": false },
+        "verified_by": { "type": ["string", "null"] },
+        "verified_at": { "type": ["string", "null"], "format": "date-time" }
+      }
+    }
+  }
+}
