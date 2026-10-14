@@ -4,6 +4,7 @@
 # Partial negative-pattern coverage, not proof of religious correctness or semantic safety.
 from __future__ import annotations
 import argparse
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -30,6 +31,9 @@ def extract_original_validator(markdown):
     return markdown.split(a,1)[1].split(b,1)[0]
 
 def validate(md, record):
+    expected="2de11032e8a1dbec3f8727befccc98c88578fecd3d02443ffc8e58a15c0035bf"
+    if hashlib.sha256(md.encode("utf8")).hexdigest()!=expected:
+        raise ValueError("Untrusted/mismatched FAQR v1.4 anchor — refusing embedded-code execution")
     ns={"__name__":"faqr_v14_embedded","__file__":"faqr_v14_embedded.py"}
     # Executing a Markdown-embedded program is appropriate ONLY for a trusted,
     # SHA-pinned local copy. NEVER accept arbitrary untrusted Markdown as code.
